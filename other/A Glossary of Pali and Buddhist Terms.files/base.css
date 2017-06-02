@@ -1,0 +1,468 @@
+BODY {
+	BACKGROUND: white; MARGIN-LEFT: 2%; COLOR: black; MARGIN-RIGHT: 2%; FONT-FAMILY: Optima,Verdana,Arial,Helvetica,Geneva,sans-serif
+}
+A:link {
+	COLOR: #395ab9
+}
+A:visited {
+	COLOR: #b97939
+}
+A:active {
+	COLOR: #395ab9
+}
+A.noshow {
+	TEXT-DECORATION: none
+}
+A.nochange:visited {
+	COLOR: white
+}
+HR {
+	BORDER-RIGHT: #395ab9 1px solid; BORDER-TOP: #395ab9 1px solid; BORDER-LEFT: #395ab9 1px solid; BORDER-BOTTOM: #395ab9 1px solid
+}
+.only-offline {
+	DISPLAY: none
+}
+.only-online {
+	
+}
+.searchform {
+	FONT-SIZE: x-small
+}
+#footer {
+	CLEAR: both; FONT-SIZE: 60%; MARGIN: 0px auto; WIDTH: 100%; TEXT-ALIGN: right
+}
+#navbar {
+	BORDER-RIGHT: #395ab9 thin; PADDING-RIGHT: 2px; BORDER-TOP: #395ab9 thin; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 80%; BACKGROUND: #f4e8c5; PADDING-BOTTOM: 2px; BORDER-LEFT: #395ab9 thin; WIDTH: 100%; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #395ab9 thin solid; TEXT-ALIGN: left
+}
+#header {
+	WIDTH: 100%
+}
+#title {
+	
+}
+#book-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 2em; MARGIN: 0.67em 0px; TEXT-ALIGN: center
+}
+#pali-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 2em; MARGIN: 0.67em 0px; TEXT-ALIGN: center
+}
+#english-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 2em; MARGIN: 0.67em 0px; TEXT-ALIGN: center
+}
+#book-subtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.5em; MARGIN: 0.75em 0px; TEXT-ALIGN: center
+}
+#book-subtitle2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.5em; MARGIN: 0.75em 0px; TEXT-ALIGN: center
+}
+#english-subtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.5em; MARGIN: 0.75em 0px; TEXT-ALIGN: center
+}
+#author {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.17em; MARGIN-BOTTOM: 0.5em; TEXT-ALIGN: center
+}
+#author-altname {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.17em; MARGIN-BOTTOM: 0.5em; TEXT-ALIGN: center
+}
+#author2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.17em; MARGIN-BOTTOM: 0.5em; TEXT-ALIGN: center
+}
+#by {
+	MARGIN-TOP: 1em; FONT-SIZE: small; TEXT-ALIGN: center
+}
+#by2 {
+	MARGIN-TOP: 1em; FONT-SIZE: small; TEXT-ALIGN: center
+}
+#rights {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 2%; FONT-SIZE: x-small; BACKGROUND: white; PADDING-BOTTOM: 5px; BORDER-LEFT: #395ab9 1px dotted; WIDTH: 30%; COLOR: black; PADDING-TOP: 5px
+}
+#rights HR {
+	BORDER-RIGHT: #395ab9 1px dotted; BORDER-TOP: #395ab9 1px dotted; BORDER-LEFT: #395ab9 1px dotted; BORDER-BOTTOM: #395ab9 1px dotted
+}
+#ati-title {
+	MARGIN-BOTTOM: 0.5em
+}
+#ati-copy {
+	MARGIN-BOTTOM: 0.5em
+}
+#ati-license {
+	MARGIN-BOTTOM: 0.5em
+}
+#ati-extra {
+	MARGIN-BOTTOM: 0.5em
+}
+#source-title {
+	MARGIN-BOTTOM: 0.5em
+}
+#source-copy {
+	MARGIN-BOTTOM: 0.5em
+}
+#source-isbn {
+	MARGIN-BOTTOM: 0.5em
+}
+#source-extra {
+	MARGIN-BOTTOM: 0.5em
+}
+#main {
+	CLEAR: both; MARGIN-TOP: 0em; PADDING-TOP: 0em
+}
+#title #ati-copy {
+	FONT-SIZE: small; TEXT-ALIGN: center
+}
+#title #ati-license {
+	FONT-SIZE: small; TEXT-ALIGN: center
+}
+#tipitaka-id {
+	FONT-SIZE: small; TEXT-ALIGN: center
+}
+#pts-id {
+	
+}
+#alt-id {
+	
+}
+#sutta-note {
+	MARGIN-BOTTOM: 0.5em
+}
+#sutta-summary {
+	MARGIN-TOP: 1em
+}
+#alt-formats {
+	
+}
+DIV.flip {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em
+}
+DIV.flip TABLE {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid; BORDER-COLLAPSE: separate; border-spacing: 0px
+}
+DIV.flip A {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 1px; COLOR: #395ab9; PADDING-TOP: 1px; TEXT-DECORATION: none
+}
+DIV.flip TD {
+	
+}
+DIV.flip A:hover {
+	BORDER-RIGHT: black 1px dotted; PADDING-RIGHT: 5px; BORDER-TOP: black 1px dotted; PADDING-LEFT: 5px; BACKGROUND: #f4e8c5; PADDING-BOTTOM: 0px; BORDER-LEFT: black 1px dotted; COLOR: black; PADDING-TOP: 0px; BORDER-BOTTOM: black 1px dotted
+}
+DIV.flip A.here {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; BACKGROUND: #f4e8c5; PADDING-BOTTOM: 1px; COLOR: black; PADDING-TOP: 1px
+}
+DIV.flip A.here:hover {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV.flip A.active {
+	BACKGROUND: #f4e8c5; COLOR: black
+}
+A.here:link {
+	BACKGROUND: #f4e8c5; COLOR: black
+}
+A.here:visited {
+	BACKGROUND: #f4e8c5; COLOR: black
+}
+DIV.biblio UL {
+	PADDING-LEFT: 1em; LIST-STYLE-TYPE: none
+}
+DIV.biblio UL LI {
+	MARGIN-TOP: 1em; MARGIN-LEFT: 1.5em; TEXT-INDENT: -1.5em
+}
+DIV.biblio OL LI {
+	MARGIN-TOP: 1em
+}
+DIV.gloss UL {
+	PADDING-LEFT: 1em; MARGIN-BOTTOM: 0em; LIST-STYLE-TYPE: none
+}
+DIV.gloss UL LI {
+	MARGIN-TOP: 0em; MARGIN-LEFT: 1.5em; TEXT-INDENT: -1.5em
+}
+DIV.gloss UL LI OL LI {
+	MARGIN-TOP: 0em; MARGIN-LEFT: 0px; TEXT-INDENT: 0px
+}
+DIV.gloss {
+	MARGIN-BOTTOM: 1em
+}
+UL.nobull {
+	LIST-STYLE-TYPE: none
+}
+.nospace LI {
+	MARGIN-TOP: 0em
+}
+UL {
+	MARGIN-BOTTOM: 1em
+}
+OL {
+	MARGIN-BOTTOM: 1em
+}
+DL {
+	MARGIN-BOTTOM: 1em
+}
+DT {
+	MARGIN-TOP: 1em
+}
+DD P {
+	MARGIN-TOP: 0px
+}
+H1 {
+	FONT-SIZE: 180%; TEXT-ALIGN: center
+}
+H2 {
+	FONT-SIZE: 160%; TEXT-ALIGN: center
+}
+H3 {
+	FONT-SIZE: 140%; MARGIN-BOTTOM: 0em
+}
+UNKNOWN {
+	MARGIN-TOP: 2em
+}
+UNKNOWN {
+	MARGIN-TOP: 2em
+}
+UNKNOWN {
+	MARGIN-TOP: 1em
+}
+H3.subtitle {
+	MARGIN-BOTTOM: 1em
+}
+H4 {
+	FONT-SIZE: 120%; MARGIN-BOTTOM: 0em
+}
+UNKNOWN {
+	MARGIN-TOP: 2em
+}
+UNKNOWN {
+	MARGIN-TOP: 2em
+}
+UNKNOWN {
+	MARGIN-TOP: 0em
+}
+UNKNOWN {
+	MARGIN-TOP: 0em
+}
+UNKNOWN {
+	MARGIN-TOP: 1em
+}
+H5 {
+	FONT-SIZE: 110%; MARGIN-BOTTOM: 0em
+}
+H6 {
+	FONT-SIZE: 110%; MARGIN-BOTTOM: 0em
+}
+UNKNOWN {
+	MARGIN-TOP: 2em
+}
+UNKNOWN {
+	MARGIN-TOP: 2em
+}
+UNKNOWN {
+	MARGIN-TOP: 0em
+}
+UNKNOWN {
+	MARGIN-TOP: 2em
+}
+UNKNOWN {
+	MARGIN-TOP: 2em
+}
+UNKNOWN {
+	MARGIN-TOP: 0em
+}
+TABLE.translist TH {
+	BORDER-TOP: black 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 120%; BORDER-LEFT: black 1px solid; COLOR: black; BACKGROUND-COLOR: #f4e8c5; TEXT-ALIGN: center
+}
+.epi {
+	MARGIN-LEFT: 20%; MARGIN-RIGHT: 20%; FONT-STYLE: italic; TEXT-ALIGN: center
+}
+.epi P.cite {
+	MARGIN-LEFT: 60%
+}
+.tagline {
+	FONT-SIZE: small; MARGIN-RIGHT: 10%; TEXT-ALIGN: right
+}
+TABLE.abbrev {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 5%
+}
+DIV.chapter {
+	
+}
+.chapter .title {
+	MARGIN-TOP: 1em; FONT-WEIGHT: bold; FONT-SIZE: 180%; TEXT-ALIGN: center
+}
+.chapter .subtitle {
+	MARGIN-TOP: 1em; FONT-WEIGHT: bold; FONT-SIZE: 160%; MARGIN-BOTTOM: 2em; TEXT-ALIGN: center
+}
+.chapter .by {
+	MARGIN-TOP: 1em; FONT-SIZE: 100%; TEXT-ALIGN: center
+}
+.chapter .author {
+	MARGIN-TOP: 1em; FONT-WEIGHT: bold; FONT-SIZE: 120%; TEXT-ALIGN: center
+}
+.chapter .details {
+	MARGIN-TOP: 1em; FONT-SIZE: 100%; TEXT-ALIGN: center
+}
+.chapter DIV.sect1 .title {
+	MARGIN-TOP: 2em; FONT-WEIGHT: bold; FONT-SIZE: 140%; TEXT-ALIGN: left
+}
+.chapter DIV.sect2 .title {
+	MARGIN-TOP: 2em; FONT-WEIGHT: bold; FONT-SIZE: 130%; MARGIN-BOTTOM: 0em; TEXT-ALIGN: left
+}
+.chapter DIV.sect3 .title {
+	MARGIN-TOP: 2em; FONT-WEIGHT: bold; FONT-SIZE: 100%; MARGIN-BOTTOM: 0em; TEXT-ALIGN: left
+}
+.chapter DIV.sect4 .title {
+	MARGIN-TOP: 2em; FONT-WEIGHT: bold; FONT-SIZE: 100%; MARGIN-BOTTOM: 0em; TEXT-ALIGN: left
+}
+.chapter DIV.sect5 .title {
+	MARGIN-TOP: 2em; FONT-WEIGHT: bold; FONT-SIZE: 100%; MARGIN-BOTTOM: 0em; FONT-STYLE: italic; TEXT-ALIGN: left
+}
+UNKNOWN {
+	MARGIN-TOP: 2em
+}
+UNKNOWN {
+	MARGIN-TOP: 0em
+}
+UNKNOWN {
+	MARGIN-TOP: 0em
+}
+UNKNOWN {
+	MARGIN-TOP: 0em
+}
+UNKNOWN {
+	MARGIN-TOP: 0em
+}
+.chapter H1 {
+	MARGIN-TOP: 2em; FONT-WEIGHT: bold; FONT-SIZE: 140%; TEXT-ALIGN: left
+}
+.chapter H2 {
+	MARGIN-TOP: 2em; FONT-WEIGHT: bold; FONT-SIZE: 130%; TEXT-ALIGN: left
+}
+.chapter H3 {
+	MARGIN-TOP: 2em; FONT-WEIGHT: bold; FONT-SIZE: 120%; TEXT-ALIGN: left
+}
+DIV.colophon {
+	FONT-SIZE: small
+}
+DIV.chant {
+	MARGIN-LEFT: 5%; MARGIN-RIGHT: 5%
+}
+.chant PRE {
+	FONT-FAMILY: inherit
+}
+.chant .pali {
+	MARGIN-TOP: 0em; MARGIN-BOTTOM: 0em
+}
+.chant .english {
+	MARGIN: 0em 2% 1em; FONT-STYLE: normal
+}
+.pali {
+	FONT-STYLE: italic
+}
+.trans {
+	MARGIN-TOP: 1em; MARGIN-LEFT: 2%; MARGIN-RIGHT: 2%; FONT-STYLE: normal
+}
+DIV.excerpt {
+	MARGIN-LEFT: 5%; MARGIN-RIGHT: 5%
+}
+P.cite {
+	FONT-SIZE: small; MARGIN-BOTTOM: 2em; MARGIN-LEFT: 60%; TEXT-ALIGN: left
+}
+SPAN.cite {
+	FONT-SIZE: small
+}
+DIV.verse {
+	MARGIN-BOTTOM: 0em; MARGIN-LEFT: 5%; MARGIN-RIGHT: 5%
+}
+.verse PRE {
+	MARGIN-TOP: 0px; FONT-SIZE: 100%; MARGIN-BOTTOM: 0px; FONT-FAMILY: Optima, Verdana, Arial, Helvetica, Helv, Geneva, sans-serif
+}
+.verse P.cite {
+	FONT-SIZE: small; MARGIN-BOTTOM: 2em; MARGIN-LEFT: 10%; TEXT-ALIGN: left
+}
+UNKNOWN {
+	MARGIN-TOP: 1em
+}
+P.spkr {
+	MARGIN-BOTTOM: 0em; MARGIN-LEFT: -3%; FONT-STYLE: italic
+}
+UNKNOWN {
+	MARGIN-TOP: 0px
+}
+DIV.sutta {
+	
+}
+H1.pali-id {
+	FONT-SIZE: small
+}
+H1.pali-title {
+	
+}
+H2.e-title {
+	
+}
+H4.excerpt {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em; TEXT-ALIGN: center
+}
+#alt-trans {
+	FONT-SIZE: small
+}
+#alt-trans A.here {
+	DISPLAY: none
+}
+#alt-trans A:hover {
+	BORDER-RIGHT: black 1px dotted; BORDER-TOP: black 1px dotted; BORDER-LEFT: black 1px dotted; BORDER-BOTTOM: black 1px dotted
+}
+#alt-trans A {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+.notice {
+	MARGIN-TOP: 1em; FONT-SIZE: small; MARGIN-BOTTOM: 1em; TEXT-ALIGN: center
+}
+DIV.tnote {
+	FONT-SIZE: small
+}
+DIV.intro {
+	
+}
+DIV.intro H1 {
+	MARGIN-TOP: 0em
+}
+H2 {
+	MARGIN-TOP: 0em
+}
+H3 {
+	MARGIN-TOP: 0em
+}
+H4 {
+	MARGIN-TOP: 0em
+}
+H5 {
+	MARGIN-TOP: 0em
+}
+DIV.notes {
+	FONT-SIZE: 90%; MARGIN-BOTTOM: 2em; MARGIN-LEFT: 2%; MARGIN-RIGHT: 2%
+}
+.notes DIV.note {
+	MARGIN-TOP: 1.5em; MARGIN-LEFT: 1em
+}
+.notes DIV.note0 {
+	MARGIN-LEFT: 1em
+}
+.note-tag {
+	FONT-SIZE: small; VERTICAL-ALIGN: super
+}
+HR.minibar {
+	MARGIN-TOP: 2em; MARGIN-BOTTOM: 2em; WIDTH: 33%
+}
+HR.minibar2 {
+	MARGIN: 2em 50% 2em 25%
+}
+HR.microbar {
+	MARGIN-TOP: 2em; MARGIN-BOTTOM: 2em; WIDTH: 10%
+}
+.shaded {
+	COLOR: black; BACKGROUND-COLOR: #f4e8c5
+}
+.stop {
+	COLOR: red
+}
+.go {
+	COLOR: green
+}

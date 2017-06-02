@@ -1,0 +1,21 @@
+.14px {
+	FONT-SIZE: 14px; LINE-HEIGHT: 25pt; FONT-FAMILY: "§ºÊ^"
+}
+.12px {
+	FONT-SIZE: 12px; LINE-HEIGHT: 18px; FONT-FAMILY: "§ºÊ^"
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+TD {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 18px; TEXT-DECORATION: none
+}
+INPUT {
+	FONT-SIZE: 9pt
+}

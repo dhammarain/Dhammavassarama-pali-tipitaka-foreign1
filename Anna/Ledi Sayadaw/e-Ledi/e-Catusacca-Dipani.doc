@@ -1,0 +1,2510 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0041)http://www.ubakhin.com/ledi/MANUAL05.html -->
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=Big5">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./e-Catusacca-Dipani.files/filelist.xml">
+<link rel=Edit-Time-Data href="./e-Catusacca-Dipani.files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Catusacca-Dipani, or Manual of the Four Noble Truths</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>metta</o:Author>
+  <o:LastAuthor>metta</o:LastAuthor>
+  <o:Revision>18</o:Revision>
+  <o:TotalTime>88</o:TotalTime>
+  <o:Created>2006-04-25T00:48:00Z</o:Created>
+  <o:LastSaved>2006-04-26T10:16:00Z</o:LastSaved>
+  <o:Pages>23</o:Pages>
+  <o:Words>11742</o:Words>
+  <o:Characters>66931</o:Characters>
+  <o:Lines>557</o:Lines>
+  <o:Paragraphs>133</o:Paragraphs>
+  <o:CharactersWithSpaces>82195</o:CharactersWithSpaces>
+  <o:Version>9.2812</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>120</w:Zoom>
+  <w:Compatibility>
+   <w:UseFELayout/>
+  </w:Compatibility>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:新細明體;
+	panose-1:2 2 3 0 0 0 0 0 0 0;
+	mso-font-alt:PMingLiU;
+	mso-font-charset:136;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 137232384 22 0 1048577 0;}
+@font-face
+	{font-family:細明體;
+	panose-1:2 2 3 9 0 0 0 0 0 0;
+	mso-font-alt:MingLiU;
+	mso-font-charset:136;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:3 137232384 22 0 1048577 0;}
+@font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:136;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 2032127 0;}
+@font-face
+	{font-family:Foreign1;
+	panose-1:2 2 6 3 5 4 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"\@細明體";
+	panose-1:2 2 3 9 0 0 0 0 0 0;
+	mso-font-charset:136;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:3 137232384 22 0 1048577 0;}
+@font-face
+	{font-family:"\@新細明體";
+	panose-1:2 2 3 0 0 0 0 0 0 0;
+	mso-font-charset:136;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 137232384 22 0 1048577 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:136;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 2032127 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:新細明體;
+	mso-bidi-font-family:"Times New Roman";}
+h1
+	{margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:新細明體;
+	mso-font-kerning:18.0pt;
+	font-weight:bold;}
+h2
+	{margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:新細明體;
+	font-weight:bold;}
+h4
+	{mso-style-next:內文;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	text-autospace:none;
+	font-size:16.0pt;
+	mso-bidi-font-size:28.0pt;
+	font-family:"Times New Roman";
+	color:blue;
+	font-weight:normal;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 216.0pt right 432.0pt;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:新細明體;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:新細明體;
+	mso-bidi-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:新細明體;
+	mso-bidi-font-family:"Times New Roman";}
+pre
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:12.0pt;
+	font-family:細明體;
+	mso-bidi-font-family:"Courier New";}
+ /* Page Definitions */
+@page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1039"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white
+background="Catusacca-Dipani,%20or%20Manual%20of%20the%20Four%20Noble%20Truths.files\EDGE.gif"
+lang=ZH-TW link=blue vlink=blue style='tab-interval:24.0pt'>
+<!--[if gte mso 9]><xml>
+ <v:background id="_x0000_s1037" o:bwmode="white">
+  <v:fill src="Catusacca-Dipani,%20or%20Manual%20of%20the%20Four%20Noble%20Truths.files\EDGE.gif"
+   type="tile"/>
+ </v:background></xml><![endif]-->
+
+<div class=Section1>
+
+<div align=center>
+
+<table border=0 cellpadding=0 width="91%" bgcolor="#fff9aa" style='width:91.48%;
+ mso-cellspacing:1.5pt;margin-left:-3.75pt;background:#FFF9AA;mso-padding-alt:
+ 0cm 0cm 0cm 0cm'>
+ <tr style='height:3.0pt'>
+  <td width=15 style='width:11.35pt;background:purple;padding:.75pt .75pt .75pt .75pt;
+  height:3.0pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><span
+  lang=EN-US style='font-size:3.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+  "Arial Unicode MS";mso-bidi-font-family:"Arial Unicode MS"'><o:p></o:p></span></p>
+  </td>
+  <td width=472 style='width:353.65pt;background:purple;padding:.75pt .75pt .75pt .75pt;
+  height:3.0pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><span
+  lang=EN-US style='font-size:3.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+  "Arial Unicode MS";mso-bidi-font-family:"Arial Unicode MS"'><o:p></o:p></span></p>
+  </td>
+  <td width=20 style='width:14.7pt;background:purple;padding:.75pt .75pt .75pt .75pt;
+  height:3.0pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><span
+  lang=EN-US style='font-size:3.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+  "Arial Unicode MS";mso-bidi-font-family:"Arial Unicode MS"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=15 style='width:11.35pt;background:purple;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><span
+  lang=EN-US style='mso-fareast-font-family:"Arial Unicode MS";mso-bidi-font-family:
+  "Arial Unicode MS"'><o:p></o:p></span></p>
+  </td>
+  <td width=472 style='width:353.65pt;background:#CCFFFF;padding:.75pt .75pt .75pt .75pt'>
+  <h1 align=center style='margin-top:.5gd;text-align:center'><a name=Top><span
+  lang=EN-US style='font-family:"Times New Roman";color:blue'>THE CATUSACCA-D</span></a><span
+  style='mso-bookmark:Top'><span lang=EN-US style='font-family:Foreign1;
+  color:blue'>I</span></span><span style='mso-bookmark:Top'><span lang=EN-US
+  style='font-family:"Times New Roman";color:blue'>PAN</span></span><span
+  style='mso-bookmark:Top'><span lang=EN-US style='font-family:Foreign1;
+  color:blue'>I</span></span><span lang=EN-US style='color:blue'><o:p></o:p></span></h1>
+  <h2 align=center style='text-align:center'><span lang=EN-US style='font-family:
+  "Times New Roman";color:blue'>The Manual of the Four Noble Truths<o:p></o:p></span></h2>
+  <p class=MsoNormal align=center style='margin-bottom:.5gd;text-align:center;
+  line-height:12.0pt'><i><span lang=EN-US style='font-family:"Times New Roman";
+  color:maroon'>by Mah</span></i><i><span lang=EN-US style='font-family:Foreign1;
+  color:maroon'>a</span></i><i><span lang=EN-US style='font-family:"Times New Roman";
+  color:maroon'>thera Led</span></i><i><span lang=EN-US style='font-family:
+  Foreign1;color:maroon'>i </span></i><i><span lang=EN-US style='font-family:
+  "Times New Roman";color:maroon'>Say</span></i><i><span lang=EN-US
+  style='font-family:Foreign1;color:maroon'>a</span></i><i><span lang=EN-US
+  style='font-family:"Times New Roman";color:maroon'>daw, Aggamah</span></i><i><span
+  lang=EN-US style='font-family:Foreign1;color:maroon'>a</span></i><i><span
+  lang=EN-US style='font-family:"Times New Roman";color:maroon'>pa</span></i><i><span
+  lang=EN-US style='font-family:Foreign1;color:maroon'>nd</span></i><i><span
+  lang=EN-US style='font-family:"Times New Roman";color:maroon'>ita, D.Litt.<o:p></o:p></span></i></p>
+  <p class=MsoNormal align=center style='margin-bottom:.5gd;text-align:center;
+  line-height:12.0pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Times New Roman"'>Translated into English by Say</span><span
+  lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
+  Foreign1'>a</span><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Times New Roman"'>daw U Nyana, Patamagyaw of Masoeyein
+  Monastery Mandalay.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>Edited
+  by The English Editorial Board</span><span lang=EN-US style='font-size:10.0pt;
+  mso-bidi-font-size:14.0pt;font-family:"Times New Roman";color:blue'><o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='margin-bottom:.5gd;text-align:center;
+  line-height:12.0pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Times New Roman";color:red'>( <span style='letter-spacing:
+  1.0pt'>foreign1 font</span></span><span style='font-size:10.0pt;mso-bidi-font-size:
+  12.0pt;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+  color:red'>﹐‘</span><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+  12.0pt;font-family:"Times New Roman";color:blue'>&ntilde;</span><span
+  style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";color:red'>’</span><span lang=EN-US
+  style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman";
+  color:red'>excepted )</span><span lang=EN-US style='mso-fareast-font-family:
+  "Arial Unicode MS";mso-bidi-font-family:"Arial Unicode MS"'><o:p></o:p></span></p>
+  </td>
+  <td width=20 style='width:14.7pt;background:purple;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><span
+  lang=EN-US style='mso-fareast-font-family:"Arial Unicode MS";mso-bidi-font-family:
+  "Arial Unicode MS"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='height:3.0pt'>
+  <td width=15 style='width:11.35pt;background:purple;padding:.75pt .75pt .75pt .75pt;
+  height:3.0pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><span
+  lang=EN-US style='font-size:3.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+  "Arial Unicode MS";mso-bidi-font-family:"Arial Unicode MS"'><o:p></o:p></span></p>
+  </td>
+  <td width=472 style='width:353.65pt;background:purple;padding:.75pt .75pt .75pt .75pt;
+  height:3.0pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><span
+  lang=EN-US style='font-size:3.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+  "Arial Unicode MS";mso-bidi-font-family:"Arial Unicode MS"'><o:p></o:p></span></p>
+  </td>
+  <td width=20 style='width:14.7pt;background:purple;padding:.75pt .75pt .75pt .75pt;
+  height:3.0pt'>
+  <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+  line-height:12.0pt'><![if !supportEmptyParas]>&nbsp;<![endif]><span
+  lang=EN-US style='font-size:3.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:
+  "Arial Unicode MS";mso-bidi-font-family:"Arial Unicode MS"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal align=center style='margin-top:12.0pt;text-align:center'><span
+lang=EN-US style='font-family:"Times New Roman";color:#FF6600'>Namo Tassa
+Bhagavato Arahato Samm</span><span lang=EN-US style='font-family:Foreign1;
+color:#FF6600'>a</span><span lang=EN-US style='font-family:"Times New Roman";
+color:#FF6600'> Sambuddhassa.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-top:6.0pt;text-align:center'><span
+lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman";
+color:blue'>Veneration to Him, the Most Exalted, the Purified, the Supremely
+Enlightened Buddha.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='font-family:"Times New Roman"'><img width=466 height=3 id="_x0000_i1029"
+src="Catusacca-Dipani,%20or%20Manual%20of%20the%20Four%20Noble%20Truths.files\Bar.gif"><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Five Khandha (Groups of Existence)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Phenapindupamam rupam, vedana, pupphulupama,<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Maricikipama sanna, sankhara kadalupama,<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mayupamanca vinnanam, desitadiccabandhuna.[1]<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Omniscient Buddha declared: 'The corporeality-group resembles a heap of foam
+which is devoid of soul-entity and essence; the feeling-resembles water bubbles
+which are devoid of soul-entity and essence; the perception-group resembles a
+mirage which is devoid of soul-entity and essence; the group of mental
+formations resembles the trunk of a banana tree which is devoid of soul-entity and
+essence; and the consciousness-group resembles deceitful appearances produced
+by a magician, and which are devoid of soul-entity and essence.' <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Twelve Ayatana Bases<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>Ajjhattika--Six
+Somatic Bases<span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Bahira--Six External
+Bases<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>Eye<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Visible
+Object<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>Ear<span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sound<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>Nose<span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Odour<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>Tongue<span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Taste<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>Body<span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Body-contact<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>Mind-base <span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Mental-object<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>(manayatana)<span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>(dhammayatana)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Sunnogamo
+sunnogamoti kho bhikkhave channetam ajjhattikanam ayata-nanamadhivacanam;
+cakkhayatanassa, sotayatanassa, ghanayatanassa, jivhayatanassa kayayatanassa,
+manayatanassa, gamaghatakacora ti kho bhikkhave channetam bahiranam ayatanam,
+ruipayatananam, saddayatananam, gandhayatananam, rasayatananam,
+photthabbayatananam, dhammayatananam.[2] <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>'Monks,
+the six somatic bases--the eye, the ear, the nose, the tongue, the body, and
+the mind-base or consciousness (manayatana) are figuratively termed &quot;a
+ruined village&quot;. The six external bases--visible objects, sound, odour,
+taste, body-impressions and mental-objects are figuratively termed &quot;gangs
+of robbers who plunder the village.&quot;' <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Eighteen
+Psycho-Physical Elements<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>eye<span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>visible object<span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>eye-consciousness<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>ear<span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>sound<span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>ear-consciousness<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>nose<span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>odour<span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>nose-consciousness<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>tongue<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>taste<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>tongue-consciousness<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>body<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>body-contact<span style="mso-spacerun:
+yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>body-consciousness<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>mano-dhatu (mental-element)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>dhamma-dhatu
+(mental-object-element)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>mano-vinnana-dhatu
+(mind-consciousness-element)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>According
+to the declaration 'attano sabhavam dharetiti-dhatu', as these eighteen
+psycho-physical elements never act according to the wishes of beings, but
+function according to their respective natures, they are termed dhatu
+(elements). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Three
+Psycho-Physical Elements and Dependent Origination<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Nid</span><span lang=EN-US style='font-family:Foreign1'>a</span><span
+lang=EN-US style='font-family:"Times New Roman"'>na-Vagga of the
+Samyutta-Nikaya says:[3] <o:p></o:p></span></p>
+
+<p class=MsoNormal><a name="_Toc506798695"></a><a name="_Toc509398175"></a><a
+name="_Toc122599833"></a><a name="_Toc122597675"></a><a name="_Toc132517465"><span
+style='mso-bookmark:_Toc122597675'><span style='mso-bookmark:_Toc122599833'><span
+style='mso-bookmark:_Toc509398175'><span style='mso-bookmark:_Toc506798695'><span
+lang=EN-US style='color:maroon'>(S.12.44.) </span><span lang=EN-US>(4)
+Lokasutta</span></span></span></span></span></a><span style='mso-bookmark:_Toc132517465'><span
+style='mso-bookmark:_Toc122597675'><span style='mso-bookmark:_Toc122599833'><span
+style='mso-bookmark:_Toc509398175'><span style='mso-bookmark:_Toc506798695'><span
+lang=EN-US style='font-family:Foreign1'>m</span></span></span></span></span></span><span
+style='mso-bookmark:_Toc132517465'><span style='mso-bookmark:_Toc122597675'><span
+style='mso-bookmark:_Toc122599833'><span lang=EN-US style='font-family:Foreign1'>
+</span>世間</span></span></span></p>
+
+<p class=MsoNormal><span lang=EN-US><span style="mso-spacerun:
+yes">&nbsp;</span>44.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>S</span><span
+lang=EN-US style='font-family:Foreign1'>a</span><span lang=EN-US>vatthiya</span><span
+lang=EN-US style='font-family:Foreign1'>m</span><span lang=EN-US> viharati …pe…
+“Lokassa, bhikkhave, samudaya&ntilde;ca attha</span><span lang=EN-US style='font-family:
+Foreign1'>v</span><span lang=EN-US>gama&ntilde;ca desess</span><span lang=EN-US
+style='font-family:Foreign1'>a</span><span lang=EN-US>mi.<span
+style="mso-spacerun: yes">&nbsp; </span>Ta</span><span lang=EN-US
+style='font-family:Foreign1'>m</span><span lang=EN-US> su</span><span
+lang=EN-US style='font-family:Foreign1'>na</span><span lang=EN-US>tha, s</span><span
+lang=EN-US style='font-family:Foreign1'>a</span><span lang=EN-US>dhuka</span><span
+lang=EN-US style='font-family:Foreign1'>m</span><span lang=EN-US> manasi
+karotha; bh</span><span lang=EN-US style='font-family:Foreign1'>a</span><span
+lang=EN-US>siss</span><span lang=EN-US style='font-family:Foreign1'>a</span><span
+lang=EN-US>m</span><span lang=EN-US style='font-family:Foreign1'>i</span>”<span
+lang=EN-US>ti.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>“Eva</span><span
+lang=EN-US style='font-family:Foreign1'>m</span><span lang=EN-US>, bhante”ti
+kho te bhikkh</span><span lang=EN-US style='font-family:Foreign1'>u</span><span
+lang=EN-US> Bhagavato paccassosu</span><span lang=EN-US style='font-family:
+Foreign1'>m</span><span lang=EN-US>.<span style="mso-spacerun:
+yes">&nbsp;&nbsp; </span>Bhagav</span><span lang=EN-US style='font-family:Foreign1'>a</span><span
+lang=EN-US> etadavoca–</span><span lang=EN-US style='font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+text-indent:37.5pt'><span style='mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>“</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>Katamo ca, bhikkhave, lokassa
+samudayo?<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>Cakkhu&ntilde;ca pa</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>t</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>icca r</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>u</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>pe ca uppajjati cakkhuvi&ntilde;&ntilde;</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>an</span><span lang=EN-US
+style='color:red'>a</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>m</span><span lang=EN-US style='color:red'>. </span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'><span
+style="mso-spacerun: yes">&nbsp;</span>Ti</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>nn</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>a</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>m</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>sa</span><span lang=EN-US style='font-family:Foreign1;color:red'>v</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>gati phasso.<span
+style="mso-spacerun: yes">&nbsp;&nbsp; </span>Phassapaccay</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>vedan</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='color:red'>; </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>vedan</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>paccay</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'> ta</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>n</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>h</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'>; </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>ta</span><span lang=EN-US style='font-family:Foreign1;color:red'>n</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>h</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>paccay</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>up</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>d</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>na</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>m</span><span lang=EN-US
+style='color:red'>;</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'> up</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>d</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>napaccay</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>bhavo; bhavapaccay</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>a</span><span lang=EN-US style='color:red'> </span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>j</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>ti; j</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>tipaccay</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'> jar</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>mara</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>n</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>a</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>m</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>sokaparidevadukkhadomanassup</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>y</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>s</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>sambhavanti.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>Aya</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>m</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'> kho, bhikkhave, lokassa
+samudayo. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+text-indent:37.5pt'><span lang=EN-US style='font-family:"Times New Roman";
+color:red'><span style="mso-spacerun: yes">&nbsp;</span></span><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>“</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>Sota&ntilde;ca pa</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>t</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>icca sadde ca </span><span style='mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>…</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>pe</span><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>…</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'> gh</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>na&ntilde;ca pa</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>t</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>icca gandhe ca</span><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>…</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'> jivha&ntilde;ca pa</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>t</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>icca rase ca</span><span style='mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>…</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'> k</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>ya&ntilde;ca pa</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>t</span><span lang=EN-US
+style='color:red'>i</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>cca pho</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>tt</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>habbe ca</span><span style='mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>…</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'> mana&ntilde;ca pa</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>t</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>icca dhamme ca uppajjati
+manovi&ntilde;&ntilde;</span><span lang=EN-US style='font-family:Foreign1;color:red'>an</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>a</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>m</span><span lang=EN-US
+style='color:red'>. </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'><span style="mso-spacerun: yes">&nbsp;</span>Ti</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>nn</span><span lang=EN-US
+style='color:red'>a</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>m</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'> sa</span><span lang=EN-US style='font-family:Foreign1;color:red'>v</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>gati phasso.<span
+style="mso-spacerun: yes">&nbsp;&nbsp; </span>Phassapaccay</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>vedan</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='color:red'> </span><span style='mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>…</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>pe</span><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>…</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'> j</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>tipaccay</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>jar</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>mara</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>n</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>a</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>m</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>sokaparidevadukkhadomanassup</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>y</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>s</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>sambhavanti.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>Aya</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>m</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'> kho, bhikkhave, lokassa
+samudayo. <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+text-indent:37.5pt'><span lang=EN-US style='font-family:"Times New Roman";
+color:red'><span style="mso-spacerun: yes">&nbsp;</span></span><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>“</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>Katamo ca, bhikkhave, lokassa attha</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>v</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>gamo?<span style="mso-spacerun:
+yes">&nbsp;&nbsp; </span>Cakkhu&ntilde;ca pa</span><span lang=EN-US style='font-family:
+Foreign1;color:red'>t</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>icca r</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>u</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>pe ca uppajjati cakkhuvi&ntilde;&ntilde;</span><span lang=EN-US style='font-family:
+Foreign1;color:red'>an</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>a</span><span lang=EN-US style='font-family:Foreign1;color:red'>m</span><span
+lang=EN-US style='color:red'>.<span style="mso-spacerun: yes">&nbsp; </span></span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>Ti</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>nn</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>a</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>m</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>sa</span><span lang=EN-US style='font-family:Foreign1;color:red'>v</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>gati phasso.<span
+style="mso-spacerun: yes">&nbsp;&nbsp; </span>Phassapaccay</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>vedan</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='color:red'>; </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>vedan</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>paccay</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>ta</span><span lang=EN-US style='font-family:Foreign1;color:red'>n</span><span
+lang=EN-US style='color:red'>x</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>a</span><span lang=EN-US style='color:red'>. </span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'><span
+style="mso-spacerun: yes">&nbsp;</span>Tass</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>yeva ta</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>n</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>h</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>ya asesavir</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>ganirodh</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>up</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>d</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>nanirodho; up</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>d</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>nanirodh</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'> bhavanirodho </span><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>…</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>pe</span><span style='mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>…</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'> evametassa kevalassa
+dukkhakkhandhassa nirodho hoti.<span style="mso-spacerun: yes">&nbsp;&nbsp;
+</span>Aya</span><span lang=EN-US style='font-family:Foreign1;color:red'>m</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'> kho, bhikkhave,
+lokassa attha</span><span lang=EN-US style='font-family:Foreign1;color:red'>v</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>gamo. </span><span
+lang=EN-US style='color:red'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+text-indent:37.5pt'><span lang=EN-US style='color:red'><span
+style="mso-spacerun: yes">&nbsp;</span>“</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>Sota&ntilde;ca paticca sadde ca </span><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>…</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>pe</span><span style='mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>…</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>gh</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>na&ntilde;ca pa</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>t</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>icca gandhe ca</span><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>…</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'> jivha&ntilde;ca pa</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>t</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>icca rase ca</span><span style='mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>…</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'> k</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>ya&ntilde;ca pa</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>t</span><span lang=EN-US
+style='color:red'>i</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>cca pho</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>tt</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>habbe ca</span><span style='mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>…</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'> mana&ntilde;ca pa</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>t</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>icca dhamme ca uppajjati manovi&ntilde;&ntilde;</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>an</span><span lang=EN-US
+style='color:red'>a</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>m</span><span lang=EN-US style='color:red'>.<span
+style="mso-spacerun: yes">&nbsp; </span></span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>Ti</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>nn</span><span lang=EN-US
+style='color:red'>a</span><span lang=EN-US style='font-family:Foreign1;
+color:red'>m</span><span lang=EN-US style='color:red'> </span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>sa</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>v</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>gati phasso.<span
+style="mso-spacerun: yes">&nbsp;&nbsp; </span>Phassapaccay</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>vedan</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='color:red'>; </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>vedan</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>paccay</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>ta</span><span lang=EN-US style='font-family:Foreign1;color:red'>n</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>h</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'>.<span style="mso-spacerun: yes">&nbsp; </span></span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>Tass</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>yeva ta</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>n</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>h</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>ya asesavir</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>ganirodh</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>up</span><span lang=EN-US style='font-family:Foreign1;color:red'>a</span><span
+lang=EN-US style='font-family:"Times New Roman";color:red'>d</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>nanirodho; up</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>d</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>nanirodh</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>a</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>bhavanirodho </span><span style='mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";color:red'>…</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>pe</span><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>…</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'> evametassa kevalassa dukkhakkhandhassa nirodho hoti.<span
+style="mso-spacerun: yes">&nbsp;&nbsp; </span>Aya</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>m</span><span lang=EN-US
+style='color:red'> </span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>kho, bhikkhave, lokassa attha</span><span lang=EN-US
+style='font-family:Foreign1;color:red'>v</span><span lang=EN-US
+style='font-family:"Times New Roman";color:red'>gamo</span><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+color:red'>”</span><span lang=EN-US style='font-family:"Times New Roman";
+color:red'>ti.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>Catuttha</span><span
+lang=EN-US style='font-family:Foreign1;color:red'>m</span><span lang=EN-US
+style='color:red'>.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Lokasamudayanca
+bhikkhave desessami lokanirodhanca, Kathanca bhikkhave lokasamudayo? Cakkhuncapaticcarapeca
+uppajati cakkhu-vinnanam, tinnam- sangatiphasso, phassapaccaya vedana,
+vedanapaccaya tanha, tanhapaccaya upadanam, upadanapaccaya bhavo, bhavapaccaya
+jati, jatipaccaya jara- marana sokaparideva dukkhadomanassupayasa sambhavanti,
+evametasa kevalassa dukkhandhassa samudayo hoti. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>:
+Sotanca paticca saddeca uppajjati sotavinnanam, tinnam sangati phasso; peyyala;
+<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Ghananca
+paticca gandheca uppajjati ghanavinnanam tinnam sangati phasso; peyyala; <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Jivhanca
+paticca raseca uppajjati jivhavinnanam tinnam sangati phasso, peyyala; <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Kayanca
+paticca photthabbeca uppajjati kayavinnanam tinnam sangati phasso, peyyala; <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Mananca
+paticca dhammeca uppajjati manovinnanam tinnam sangati phasso, peyyala,
+dukkhakkhandhassasamudayo hoti, evanca bhikkhave loka samudayo. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Kathanca
+bhikkhav lokanirodho? <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Cakkhunca
+paticca rupeca uppaj- jati cakkhuvinnanam tinnam sangati phasso, phassanirodha
+vedana nirodho, vedananirodha tanhanirodho, tanhanirodha upadananirodho,
+upadananirodha bhavanirodho, bhavanirodha jatinirodho, jatinirodha jaramarana
+sokaparideva dukkha domanassa upayasa nirujjhanti; evametassa kevalassa
+dukkhakkhandhassa nirodho hoti; evanca bhikkhave loka-nirodho. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Sotanca
+paticca sadde ca uppajjati sotavinnanam, tinnam sangati phasso, phassanirodha
+vedana nirodho, vedananirodha, tanhanirodho, tan hanirodho tanhanirodha
+upadananirodho, upadananirodha bhavanirodho, bhavanirodha jatinirodho,
+jatinirodha jaramarana sokaparideva dukkha domanassupayasa nirujjhanti;
+evametassa kevalassa dukkhakkhandhassa nirodho hoti; evanca bhikkhave
+lokanirodho. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Ghananca
+paticca gandhe ca uppajjati ghanavinnanam, tinnam sangati phasso, phassanirodha
+vedana nirodho, vedananirodha tanhanirodho tanhanirodha upadananirodho,
+upadananirodha bhavanirodho, bhavanirodha jatinirodho, jatinirodha jaramarana
+sokaparideva dukkhadomanassupayasa nirujjhanti; evametassa kevalassa
+dukkhakkhandhassa nirodho hoti, evanca bhikkhave lokanirodho. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Jivhanca
+paticca rase ca uppajjati jivhavinnanam, tinnam sangati phasso, phassanirodha
+vedananirodho, vedananirodha tanhanirodho, tanha-nirodha upadananirodho,
+upadananirodha bhavanirodho, bhavanirodha jatinirodho, jatinirodha jaramarana
+sokaparideva dukkhadomanassupayasa nirujjhanti, evametassa kevalassa
+dukkhakkhandhassa nirodho hoti, evanca bhikkhave lokanirodho. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Kayanca
+paticca photthabbe ca uppajjati kayavinnanam tinnam san-gati phasso,
+phassanirodha vedananirodho, vedananirodha tanhanirodho tanhanirodha
+upddananirodho, upadananirodha bhavanirodho, bhavanirodha jatinirodho,
+jatinirodha jaramarana sokaparideva dukkhadomanassupayasa nirujjhanti,
+evametassa kevalassa dukkhakkhandhassa nirodho hoti; evanca bhikkhave
+lokanirodho. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Mananca
+paticca dhamme ca uppajjati manovinnanam, tinnam sangati phasso, phassanirodha
+vedananirodho, vedananirodha tanhanirodho, tanhanirodha upadananirodho,
+upadananirodha bhavanirodho, bhavanirodha jatinirodho jatinirodha jaramarana
+sokaparideva dukkhadomanassupayasa nirujjhanti; evametassa kevalassa
+dukkhakkhandhassa nirodho hoti, evanca bhikkhave lokanirodho. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Buddha said: <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>'I
+will teach you, monks, the origin of repeated birth and passing away of beings
+in this world. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>What,
+monks, is the origin of beings ? On account of the eye, and visible object,
+eye-consciousnes arises. Impression (phassa) is the conjunction of the three;
+through phassa vedana (feeling) arises; through vedana, tanha (craving) arises;
+through tanha, upadana (grasping) arises; through upadana, bhava (process of
+becoming) arises; through bhava, jati (rebirth) arises; through jati,
+jaramarana (decay and death), soka (sorrow), parideva (lamentation), dukkha (pain),
+domanassa (grief) and upayasa (despair) arise. Thus arises this whole mass of
+suffering. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+account of the ear and sound, ear-consciousness arises. Phassa is the
+conjunction of the three; through phassa, vedana arises; through vedana, tanha
+arises; through tanha, upadana arises: through upadana bhava arises; through
+bhava, jati arises; through jati, jara- marana, soka, parideva, dukkha,
+domanassa and upayasa arise. Thus arises this whole mass of suffering. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+account of the nose and odour, nose-consciousness arises. Phassa is the
+conjunction of the three; through phassa, vedana arises; through vedana, tanha
+arises; through tanha, upadana arises; through upadana, bhava arises; through
+bhava, jati arises; through jati, jara- marana, soka parideva, dukkha,
+domanassa and upayasa arise. Thus arises this whole mass of suffering. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+account of the tongue and taste, tongue-consciousness arises. Phassa is the
+conjunction of the three; through phassa, vedana arises; through vedana, tanha
+arises; through tanha upadana arises; through upadana, bhava arises; through
+bhava, jati arises; through jati, jara-marana, soka, parideva, dukkha,
+domanassa and upayasa arise. Thus arises this whole mass of suffering. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+account of the body and bodily impression, body-consciousness arises. Phassa is
+the conjunction of the three; through phassa, vedana arises; through vedana,
+tanha arises; through tanha, upadana arises; through upadana, bhava arises;
+through bhava, jati arises; through jati, jara-marana, soka, parideva, dukkha, domanassa
+and upayasa arise. Thus arises this whole mass of suffering. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+account of mental element and mental-object element, mind-consciousness arises.
+Phassa is the conjunction of the three; through phassa, vedana arises; through
+vedana, tanha arises; through tanha, upadana arises; through upadana, bhava
+arises; through bhava, jati arises; through jati, jara-marana, soka, parideva,
+dukkha, domanassa and upayasa arise. Thus arises this whole mass of suffering.
+This is the origin of beings. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>What,
+monks, is the passing away of beings? <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Monks,
+on account of the eye and visible object, eye-consciousness arises. Phassa is
+the conjunction of the three; through the extinction of impression, feeling
+becomes extinguished, through the extinction of feeling, craving becomes
+extinguished; through the extinction of craving, grasping becomes extinguished;
+through the extinction of grasping, rebirth becomes extinguished, through the
+extinction of rebirth, decay and death become extinguished, as well as sorrow,
+lamentation, pain, grief and despair. Thus takes place the extinction of this
+whole mass of suffering. This is the passing away of beings. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+account of the ear and sound, ear-consciousness arises. Impression is the
+conjunction of the three; through the extinction of impression feeling becomes
+extinguished; through the extinction of feeling, craving becomes extinguished;
+through the extinction of craving, grasping becomes extinguished; through the
+extinction of grasping, rebirth becomes extinguished, through the extinction of
+rebirth, decay and death become extinguished, as well as sorrow, lamentation,
+pain, grief, and despair. Thus takes place the extinction of this whole mass of
+suffering. This is the passing away of beings. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+account of the nose and odour, nose-consciousness arises. Impression is the
+conjunction of the three; through the extinction of impression, feeling becomes
+extinguished, through the extinction of feeling, craving becomes extinguished;
+through the extinction of craving, grasping becomes extinguished; through the
+extinction of grasping, rebirth becomes extinguished; through the extinction of
+rebirth, decay and death become extinguished, as well as sorrow, lamentation,
+pain, grief, and despair. Thus takes place the extinction of this whole mass of
+suffering. This is the passing away of beings. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+account of the tongue and taste, tongue-consciousness arises. Impression is the
+conjunction of the three; through the extinction of impression, feeling becomes
+extinguished; through the extinction of feeling, craving becomes extinguished;
+through the extinction of craving, grasping becomes extinguished; through the
+extinction of grasping, rebirth becomes extinguished; through the extinction of
+rebirth, decay and death become extinguished, as well as sorrow, lamentation,
+pain, grief, and despair. Thus takes place the extinction of this whole mass of
+suffering. This is the passing away of beings. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+account of the body and bodily impression, body-consciousness arises.
+Impression is the conjunction of the three; through the extinction of
+impression, feeling becomes extinguished; through the extinction of feeling,
+craving becomes extinguished; through the extinction of craving, grasping
+becomes extinguished; through the extinction of grasping, rebirth becomes extinguished;
+through the extinction of rebirth, decay and death become extinguished, as well
+as sorrow, lamentation, pain, grief, and despair. Thus takes place the
+extinction of this whole mass of suffering. This is the passing away of beings.
+<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+account of the mental element and mental-object element, mind-consciousness
+arises. Impression is the conjunction of the three; through the extinction of
+impression, feeling becomes extinguished; through the extinction of feeling,
+craving becomes extinguished; through the extinction of craving, grasping
+becomes extinguished; through the extinction of grasping, rebirth becomes
+extinguished; through the extinction of rebirth, decay and death become
+extinguished, as well as sorrow, lamentation, pain, grief, and despair. 'thus
+takes place the extinction of this whole mass of suffering. This is the passing
+away of beings. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>'Cakkhunca
+paticca rupeca uppajjati cakkhuvinnanam'. On account of the eye and visible
+object, eye-consciousness arises.-- 3 psycho-physical elements. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>'Sotanca
+paticca saddeca uppajjati sotavinnanam'. On account of the ear and sound,
+ear-consciousness arises.-3 psycho-physical elements. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>'Ghananca
+paticca gandheca uppajjati ghanavinnanam'. On account of the nose and odour,
+nose-consciousness arises.--3 psycho-physical elements. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>'Jivhanca
+paticca raseca uppajjati jivhavinnanam'. On account of the tongue and taste,
+tongue-consciousness arises.--3 psycho-physical elements. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>'Kayanca
+paticca phothabbeca uppajjati kayavinnanam'. On account of the body and bodily
+impression, body-consciousness arises.--3 psycho- physical elements. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>'Mananca
+paticca dhammeca uppajjati manovinnanam'. On account of mental element and
+mental-object element, mind-conscioiisness arises.--3 psycho-physical elements.
+<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Thus
+there are six triads making in all the eighteen psycho-physical elements. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here,
+photthabba means the combination of pathavi (the element of extension), tejo
+(the element of kinetic-energy) and vayo (the element of motion). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Dhamma-dhatu
+(mental-object elements) comprise all kammically whole- some, kammically
+unwholesome and kammically neutral phenomena excepting the former seventeen
+psycho-physical elements. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Meaning of Sixteen Characteristics of Truths<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span lang=EN-US style='font-family:"Times New Roman"'>Dukkhassa
+pilanattho, sankhatattho, santapataho, viparinamattho; <br>
+Dukkhasamudayassa ayuhanattho, nibanattho, samyogattho, palibodhattho;<br>
+Nirodhassa nissaranattho, pavivekattho, amatattho, asankhatattho; <br>
+Maggassa niyyanattho, hetuttho, dassanattho, adhipateyyattho. <br>
+--Patisambhidamagga. <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Interpretation of Dukkha-Sacca (Noble Truth of Suffering)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+four inherent characteristics of dukkha-sacca are: <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Pilanattho
+-- having the characteristic of oppression <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Sankhatattho
+-- having the characteristic of production by combination of causes <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Santapattho
+-- having the characteristic of continuously burning, heat, fire <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Viparinamattho
+-- having the characteristic of change. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Thus
+any dhamma that has the above four characteristics is called dukkha-sacca. It
+means that they are dangers much to be feared by the wise. As all
+causally-conditioned physical and mental phenomena have the above four
+characteristics, they are all dukkha-sacca. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Interpretation of Samudaya-Sacca (Noble Truth of the Origin of Suffering)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+four inherent characteristics of samudaya-sacca are: <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Ayuhanattho
+-- having the characteristic of accumulating what would cause suffering <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Nidanattho
+-- having the characteristic of constantly supply ing, or becoming a constant
+source of suppy of suffering <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Samyogattho
+-- having the characteristic of causing union or association with suffering <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Palibodhattho
+-- having the characteristic of obstructing, being an obstacle or impediment to
+freedom from suffering. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Thus
+any dhamma that has the above four characteristics is called samudaya-sacca. It
+means that this samudaya-sacca really helps the growth of all kinds of
+suffering. As tanha satisfies the above four characteristics, it is all
+samudaya-sacca. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Interpretation of Nirodha-Sacca (Noble Truth of the Cessation of Suffering)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+four inherent characteristics of nirodha-sacca are: <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Nissaranattho
+-- having the characteristic of being an escape, liberation from suffering <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Pavivekattho
+-- having the characteristic of being free from disturbance <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Amatattho
+-- a state where there is no more death or dissolution <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Asankhatattho
+-- having the characteristic of the unoriginated (Nibbana). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Thus
+any dhamma that has the above four characteristics is called nirodha-sacca.
+Nibbana alone has the above four characteristics, so it is all nirodha-sacca. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Interpretation of Magga-Sacci (Noble Truth of the Path Leading to the Cessation
+of Suffering)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+four inherent characteristics of magga-sacca are: <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Niyyanattho
+-- having the characteristic of leading to release or deliverance <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Hetuttho
+-- having the characteristic of being a cause for the attainment of arahatship.
+<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Dassanattho
+-- having the characteristic of realization of the Four Noble Truths, which is
+not even dreamt of in the rounds of samsara <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Adhipateyyattho
+-- having the characteristic of overcoming three kinds of craving and attaining
+mastery over oneself. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Thus
+any dhamma that has the above four characteristics is called magga-sacca. Only
+the Eightfold Noble Path has the above four characteristics. So it is
+magga-sacca. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Exposition of Four Characteristics of the Truth of Suffering<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Oppression
+of Dukkha<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+four characteristics are pilanattha, sankhatattha, santapattha, and
+viparinamattha. Of these, pilanattha is the main characteristic of
+dukkha-sacca, and the remaining three are its adjuncts. Pilanattha means
+'oppression' and this oppression can be formed in the following three ways: <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>By
+way of sankhata <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>By
+way of santapa <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>By
+way of viparinama. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Any
+causally-conditioned phenomemon burdens any being who clings to it in the
+following manner: in the beginning, it burdens the being by way of sankhata, in
+the middle by way of santapa, and at the end by way of viparinama. These three
+methods of burden in the beginning, in the middle and at the end, manifest themselves
+as the state of pilanattha. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>I.
+The Burden of Dukkha in the Brahma World<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>By
+way of sankhata at the beginning means: to attain the five khandha of the
+Brahma world (i.e. to be born in Brahma world), one has to practise for jhana
+and samapatti in his previous existence, This endeavour to attain such states
+is the heavy burden of sankhata at the beginning. Such attainments can be
+achieved only by one who lives in remote places such as in forests and on
+mountains, and takes severe austerities unbearable for an ordinary man. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>By
+way of santapa in the middle means: when a being achieves the khandha of a
+Brahma as the resultant effect of his having reached samapatti (attainments)
+while in the world of men, his body and mind are incessantly burdened by the superiority
+conceit of 'I am' 'I am.' In the same manner, other evils, such as sassatadi</span><span
+lang=EN-US style='font-family:Foreign1'>tt</span><span lang=EN-US
+style='font-family:"Times New Roman"'>hi (eternalist theory), uccheda-di</span><span
+lang=EN-US style='font-family:Foreign1'>tt</span><span lang=EN-US
+style='font-family:"Times New Roman"'>hi (annihilationist theory), mada
+(intoxication with sensual pleasures in the Brahma plane), pamada (negligence
+of the dhamma) and the defilements are burdening him by way of 'santapa'
+(burning; heat; fire). When a Brahmna is being burdened by the ten kinds of
+defilements, he does not perceive the weight of that burden. He thinks that it
+is good and to his liking also. Only when there arise anxiety and repentance,
+then the weight of the burden caused by defilements becomes apparent. Although
+a person may not be aware of his being burdened by these kilesa, all those
+passions that are going to defile his mind are the means of burdening him. As
+long as that Brahma lives, the groups (khandha) which constitute his existence
+produce all kinds of defilements and will burden him throughout his life. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>By
+way of viparinama at the end means: the phrase 'in the end the being is
+burdened by way of viparinama (change)' means the death or dissolution of the
+five groups of existence pertaining to that being, and that is his
+viparinama-dukkha (suffering due to change). Because there is the dissolution
+of that Brahma's body, he will have to be reborn in a lower plane-the sensuous
+plane. He may gradually go down till he reaches Avici. He may be reborn as a
+dog, a pig, a bird, a mosquito a gadfly, a louse, a bug and so forth. Thus the
+five groups of khandha belonging to that Brahma burden him by way of viparinama.
+<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Therefore,
+that Brahma's body is known as dukkha-sacca inas much as it has the four
+characteristics--pilanattha, sankhatatta, santapattha and viparinamattha. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>II.
+The Burden of Dukkha in the Deva World<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>In
+the six abodes of devas also, the five groups of existence found in any devas
+will firstly burden him by way of sankhata at the beginning, by way of santapa
+in the middle, and finally by way of viparinama. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Sankhata
+dukkha: here the burden by 'sankhata', may be explained as follows: It briefly
+means alms-giving, restraint of bodily and verbal actions, and restraint of
+mental action. Only when one has performed these wholesome deeds in this
+present life will he be able to arise in the deva-plane in his next birth and
+attain the body of a deva. He will not be able to achieve such a state by
+developing his mental groups only. By giving away his property to others in
+charity, a person who has wealth of a hundred kyats or a thousand kyats may be
+reduced to poverty in a single day; morality means strict observance and
+restraint. If one does not practise alms-giving and morality, he is bound to be
+reborn in the lower worlds in his next birth. So it is necessary to perform
+these wholesome deeds to reach the deva world. Even when they arise in the
+happy course of existence by virtue of their wholesome deeds done in the
+previous existences, if they have offered on a small scale in their past
+existence, they will have to lead a base life in their present existence. The
+more they practiced dana and sila, the better positions they will enjoy in
+their present existence. So people have to practice alms-giving spending a lot
+of money and also observe precepts with great self-control, because they fear
+that they may be low down in lower worlds in their next existence. When they
+have to do this merely because it is essential for their future welfare, it is
+dukkha. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Anything
+that is performed compulsorily is dukkha. If, without prac- tising dana and
+sila, a being were able to arise in the deva-plane after his death, or if he
+were able to arise in the Brahma plane without prac- tising calm, who would
+care to perform such wholesome deeds as dana, sila and bhavana.? <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Santapa
+dukkha: Once the beings obtain the bodies of devas in the deva-planes, great
+fire of passion rise up from the body and burn that deva throughout his life,
+dosa, moha, soka, parideva, dukkha, domanassa and upayasa, arise in his life in
+the fullness of time. This is how a deva is burdened by way of santapa. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Viparinama
+dukkha: Again, while the devas are thus enjoying pleasures in the deva-plane,
+their span of life expires, and just like a big fire suddenly put out by an
+external agency, these devas die suddenly, and generally they arise in the
+lower worlds. In fact, their khandha cause them to arise in the lower worlds.
+This is how the devas are burdened by way of viparinama finally. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Out
+of three ways of burdening at the beginning, in the middle and at the end, the
+burden of sankhata is very heavy for Brahmas. Because they are able to bear the
+heavy burden of sankhata, the santapa in the middle becomes a little lighter
+for them. The burden of viparinama also comes after a long time. Their
+life-span is calculated in terms of kappa (world-cycles). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>In
+the case of devas in the six deva-worlds, the burden of sankhata is not heavy.
+The practice of dana and sila is a thousand times easier than the practice of
+jhana and bhavana. As the burden of sankhata is not heavy and as kilesa have
+not even faded, the burden of santapa is very heavy when one becomes a deva.
+The fire of passion and sensous lust arisen out of the six sense-doors burns
+those devas up to the end of their lives. The remaining fire of defilements
+also burns when the time is ripe. The burden by way of viparinama also comes
+very quickly. Their span of life is calculated in terms of years, months and
+days. The life- span of the devas is like the wink of an eye when compared to
+that of Brahmas. Though there is said to be pleasures and enjoyments in the
+whole of the six deva-worlds, all these are fires of kama and raga that are
+burning them. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Thus
+the khandhas of six deva-worlds burden the devas in four ways and as the burden
+is manifest it is clearly dukkha-sacca. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>III.
+The Burden of Dukkha in the Human World<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>In
+the case of men, too, the mental and physical phenomena in their khandha always
+burden them in three ways of sankhata, santapa and viparinama. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Sankhata
+dukkha: As they have not to strive very hard in the field of sankhata, their
+burden of santapa is very heavy, and is a hundred thousand times greater than
+that of a deva. Their time of destruction too comes to them very quickly. Their
+span of life is an infinitesimal fraction of that of a deva. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Santapa
+dukkha: How heavily the khandha of men are burdened by way of santapa may be
+explained as follows: The trouble of being conceived in the womb of a mother,
+the trouble of having to be born, the trouble of feeling warm when residing in
+a warm region during the warm weather, the trouble of feeling cold when
+residing in a cool region during the cold weather, the trouble of living in the
+torrid zone and exposing oneself to the heat of the scorching sun, the blowing
+of hot wind and the biting by flies and fleas, the immense trouble to be
+undertaken by a cultivator to cultivate his lands amidst those troubles for the
+purpose of his livelihood, the trouble of serving under a government, the
+trouble of having to transact civic duties, the trouble concerning one's kith,
+and kin, the trouble of feeding the so called body morning and evening so that
+it may live, the trouble of changing the postures every now and then as one is
+not able to remain for long in any one posture during one of the four modes of
+deportment, the trouble of supplying nutritive essence to the defilements that
+arise at the six sense-doors and which may be compared to ogres and demons.
+These are all suffering which are the common ways of the world. There are other
+kinds of suffering such as the troubles arising out of the over-enjoyment of
+sensuous pleasures, the trouble arising out of earning a livelihood by
+performing evil deeds, the trouble of maintaining wife and children, trouble of
+becoming a man among people who profess a faith involving wrong views, thus
+dragging him to the lower worlds as long as he remains in that clan or nation,
+the troubles arising from self- mortification by living near the fire during
+the hot season and by remaining in the water during the cold season, etc.,
+which are fruitless and are the practices of people of wrong views, the trouble
+connected with disease, bruises, wounds and pains, and the immense troubles
+caused by extern enemies, such as water, fire, thieves, rulers and those
+disliked. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Thus
+the burdens of santapa for human beings, in the round of samsara are various
+and heavy. The body of human beings burdens them in such a manner by way of
+santapa. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Viparinama
+dukkha: The khandha of men burden them by viparinama. To have become a man is
+one of the rare opportunities, and even when a being arises in the world of
+men, he is liable to die at any moment from the time of conception in the
+mother's womb up to the end of the span of his life. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Thus
+at the embryonic stage immediately formed after conception a being has the
+appearance of a little drop of butter-oil scum attached to a fine woollen thread.
+Then follows the abbuda (an oval shaped tiny mass), then the pesi (the lump of
+flesh), then the ghana (clot), then the pasakha (off-shoots), in which later
+stage arms, legs, etc., are forming. In the whole of the round of rebirths, a
+being arises and perishes countless times in any one of the above-mentioned
+stages of life. Thus khandha of men burden them in the four ways, and so this
+is purely dukkha-sacca. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>IV.
+The Burden of Dukkha in the Lower Planes<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+khandha of beings in the four lower worlds burden them by four ways. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Sankhata
+dukkha: Unwholesome volitional actions cause beings to arise in the four lower
+worlds. There is the declaration: 'Papasmimramate mano' (The minds of beings
+take delight in evil actions). They perform evil actions according to their
+wishes and do not consider it as suffering while they can enjoy their lives
+according to their inclinations, and so its burden of sankhata consequences may
+be said to be not very heavy, but by judging the severity of the resultant
+effects, it may be said that its burden of sankhata consequences is very heavy
+indeed. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Santapa
+dukkha: As regards the beings that arise in the four lower worlds, the Buddha
+declared that it was not possible to explain in full how these beings are
+burdened by santapa, because they are numerous and it would occupy a great deal
+of time. They have been discussed generally in the Samvega-Vatthu. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Those
+who arise in hell will have their bones, nerves, flesh, hearts, lungs, brains,
+etc., all red-hot and tongues of fire will spring out of their skins. Thus they
+will remain for hundreds of thousands, billions, trillions, and decillions of
+years, experiencing intolerable heat. So long as their resultant effects are
+not exhausted they will not be free from such misery. In like manner there are
+myriads of beings who are arising in the various lower worlds, and who are
+suffering there for decillions and decillions of years. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>(The
+Samvega-Vatthu also describes the santapa-dukkhe relating to the petas, ghosts,
+asuras (demons) and animals.) <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Viparinama
+dukkha: In the case of viparinama at the end which is the passing away, one may
+arise in an infernal region for a single unwholesome volitional action; and
+when resultant effect comes to an end, one may pass away from there due to the
+burden of viparinama and be reborn in a lower region which is deeper than that
+of one's previous existence. One may not have the opportunity to arise in the
+happy higher planes even after thousands of existences. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here
+the explanation given by the Sammohavionodani Commentary may be pointed out.
+For beings wandering in samsara the number of existences in which they live up
+to the principles of virtue are comparatively few. Most of the existences are
+in the lower worlds where beings prey upon one another. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Even if
+they happen to be reborn in the world of men for many a time, in one out of a
+hundred of such existences would they be able to encounter the Buddha-Dhamma
+and practise it. They would hold wrong views or be vicious people in a greater
+number of existences. Evil conduct in deeds, words and thought done by any
+being in an existence is incalculable. So, among worldly beings existing in the
+present life, any one being possesses myriads of evil actions done by him in
+the innumerable past existences that could drag him to hell. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Those
+beings who are destined to arise in the hells, in the peta world and in the
+asura world also possess myriads of old accumulated unwwholesome volitional
+actions; and the same is the case with those who arise in the planes of devas and
+Brahmas. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>If a
+being who dies from the world of men, the deva plane or the Brahma plane
+happens to be reborn for a time in hell, all the unwholesome kamma done by him
+in his past existences will have the opportunity to play their parts. One evil
+kamma after another would cause him to be reborn continually in the four lower
+worlds and he would not have an opportunity to arise in the happy course of
+existence in another one thousand, ten thousand or a hundred thousand
+existences. A being bound to be reborn in the lower worlds by having performed
+a comparatively small amount of evil action, could arise there continuously for
+a great number of aeons due to his successive past kamma. There are decillions
+and decillions of such beings who become 'rooted in hell' and who have no
+opportunity to arise in the happy course of existence. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here
+ends the brief exposition as to how the beings belonging to four lower worlds
+are burdened by way of way of santapa and viparinama. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>This
+also explains how the khandha of a being in any one existence is burdened by
+sankhata, santapa and viparinama. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>A
+Multitude of Dukkha for Cultivators<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+five groups of existence corporeality group and mental groups of a cultivator
+burden him by sankhata, santapa and viparinama every month and every year. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Sankhata
+dukkha: In cultivating the lands and consuming the yearly crops, firstly the
+trouble of tilling the lands, sowing the seeds and looking after the plants
+burden the cultivator by way of sankhata. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Santapa
+dukkha: The trouble of looking after the standing crop, reaping the harvest,
+threshing corn, storing the corn in the granary, guarding the granary,
+disposing of the corn thus stored, living on the sale proceeds of the corn,
+sustaining such evil actions as lobha, dosa, mana, issa and macchariya--all
+these burden the cultivator by santapa. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Viparinama
+dukkha: Moreover, he is burdened by viparinama daily when he has to consume his
+wealth, thus reducing the amount. Here, one may argue: 'Only the destruction of
+property by fire or water should be termed &quot;burden&quot;. The gradual
+decrease of wealth owing to expenditure should not be termed a
+&quot;burden&quot;. This is an argument advanced by bitterly ignorant persons.
+If the crop thus acquired by the cultivator be permanent, i.e. it can never
+become less and exhausted, his one year's labour would be sufficient to
+maintain him peacefully for the rest of his life. Thus he would be free from
+the trouble of tilling the ground again, etc. He would even have an opportunity
+to live his whole life spending his time in practising the Buddha-Dhamma and
+thereby attaining a great deal of supramundane benefit. As it is, the crop is
+not permanent, but impermanent. As the crop becomes less and exhausted due to
+daily usages he is reduced to poverty and dire straits. For that reason, when
+the next rainy season starts, he has to take the trouble of tilling his land,
+cultivating it. In this manner he will have to continue from year to year till
+he becomes old and dies at last. Although he has obtained the opportunity of
+'becoming a man', which is a rare opportunity, as he has no opportunity to hear
+the Buddha-Dhamma and practise it, he misses the chance of reaping supramundane
+benefits. There is no way out for those foolish people who are entangled is
+such worldly pleasures as these destructible and impermanent things which can
+never lead one to the state of permanent happiness. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Wise
+people regard all these as 'unsatisfactoriness of life', because one has no
+chance to escape from the sphere of suffering; has not found a way out, has to
+encounter such suffering in his future births, has no opportunity to practise
+the Buddha-Dhamma in this present birth and has to take the trouble of tilling
+the soil, etc. To these wise people all are the same, whether one loses his
+property by spending for himself or by its being destroyed by fire or water.
+Ultimately they regard the sensuous pleasures found in the world of men, the
+planes of devas and Brahmas--in the thirty-one planes of existence as
+unsatisfactoriness of life. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Those
+foolish people who have no such kind of understanding would feel sorry if their
+properties were destroyed by fire or water, because they could not use them for
+themselves, but they would not be sorry if their property lessened owing to
+their own expenditure according to their will and pleasure. They would feel
+quite satisfied with that. So long as one's heart does not burn at such wastage
+and deterioration, one will never have a chance of escaping such suffering.
+Only when one's mind is moved at that, will one have a chance to do so. Then
+only will one be able to realise the groups of existence found in the world of
+men, the deva plane and the Brahma plane as sufferinng, and not otherwise. Only
+if a person clearly discerns the various grades of advantages enumerated above,
+will he be able to realise as suffering all the days, months, years and world
+cycles he has wasted in many of his past existences without reaping any
+benefit, just like throwing water into the sand. This is the answer to the
+argument. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+above is the exposition how the crops which are produced and exhausted yearly
+burden a cultivator in three ways: sankhata, santapa and viparinama. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Relying
+on this principle, discriminate and understand how a being is burdened by
+various kinds of suffering for days and months continuously. Ponder over the
+matter and understand how in this cosmos, earning wealth for one's livelihood
+and spending money on food and clothing are burdening in three ways. Extend
+this to the cases of men, devas and Brahmas who have enjoyed sensuous pleasures
+in their respective planes, by virtue of their having done wholesome volitional
+actions in respect of gifts, morality and mental development in wandering in
+samsara. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Sense
+Object and Suffering<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>In
+perceiving objects, when the visible object comes into contact with the
+eye-organ, it is pleasurable to the eye. When the visible object is removed,
+the sense pleasure to the eye disappears. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>When
+sound comes into contact with the ear-organ, it is pleasurable to the ear. When
+the sound, is removed the sense pleasure to the ear disappears. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+same principle holds good in the cases of nose and odour, tongue and taste,
+body and tangible object, mental element and mind object-element. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Corresponding
+to the six sense-objects, there are six kinds of craving: craving for visible
+objects, for sounds, odour, taste bodily-impression, mental impressions; and
+also six kinds of feeling: feeling associated with seeing, hearing, smelling,
+tasting, bodily-lmpression and mental-impression. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>To
+feed the six kinds of craving, six kinds of sense-objects have to be kept in
+readiness. Those who are following these sensuous pleasures cannot get rid of
+them. These sense objects are also subject to decay. So feelings such as joy
+and mentally agreeable feeling burden the beings in all their existences by
+sankhata, santapa and viparinama. They are not able to get out of this pit of
+suffering for many existences and world-cycles. Nor are they able to obtain the
+opportunity of practising the Dhamma which can lead them to deliverance. They
+only deviate from this course and are tempted to follow the previously
+mentioned disadvantageous ways. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+above is the exposition as to how beings are continuously burdened by the five groups
+of existence at every hour and at every moment. Highly obvious facts have been
+sought and set out in the above exposition of viparinama dukkha. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>I
+shall now briefly explain the viparinama dukkha alone. In this samsara,
+suffering in the four lower worlds is intense. Those who know of it greatly
+dread to fall there. As for those who do not know of it, they have to suffer
+there for their ignorance. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Unwholesome
+volitional actions which are the seeds of birth in the lower worlds cling to
+sakk</span><span lang=EN-US style='font-family:Foreign1'>a</span><span
+lang=EN-US style='font-family:"Times New Roman"'>ya-di</span><span lang=EN-US
+style='font-family:Foreign1'>tt</span><span lang=EN-US style='font-family:"Times New Roman"'>hi
+(the belief in a permanent personality). When this sakk</span><span lang=EN-US
+style='font-family:Foreign1'>a</span><span lang=EN-US style='font-family:"Times New Roman"'>ya-di</span><span
+lang=EN-US style='font-family:Foreign1'>tt</span><span lang=EN-US
+style='font-family:"Times New Roman"'>hi becomes strong, these unwholesome
+volitional actions become powerful. When they fade away, those bad kamma also
+fade away. When this sakk</span><span lang=EN-US style='font-family:Foreign1'>a</span><span
+lang=EN-US style='font-family:"Times New Roman"'>ya-di</span><span lang=EN-US
+style='font-family:Foreign1'>tt</span><span lang=EN-US style='font-family:"Times New Roman"'>hi
+ceases, those kamma also cease. For example, in introducing a light into a
+room, the flame may be compared to evil kamma. When the fire is strong, the
+light becomes bright, and when the fire becomes weak, the light also becomes
+dim. When the fire dies out, the light also disappears. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Although
+the beings with sakk</span><span lang=EN-US style='font-family:Foreign1'>a</span><span
+lang=EN-US style='font-family:"Times New Roman"'>ya-di</span><span lang=EN-US
+style='font-family:Foreign1'>tt</span><span lang=EN-US style='font-family:"Times New Roman"'>hi
+are bound for hell, they may know to some extent the intensity of suffering in
+the lower worlds, and they may perform evil actions, simply because they are
+tempted by their hellish element. What can be said then of those people who are
+either utterly ignorant of this or who maintain false views? Their hellish
+element will play its part completely. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>While
+wandering in samsara, there are very few existences where a being can
+understand what evil actions are and the dangers of the lower worlds. There are
+a great number of existences where they do not know about it, or where they
+maintain false views. A person in one thousand of his existences might
+encounter only one existence where he could differentiate between good and
+evil. The explanation given so far is a point to judge how much greater a
+being's unwholesome volitional actions would be, though there may be many
+wholesome volitional actions done by him in his past existences, and while
+wandering in this round of rebirths. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Another
+point to consider is how much greater a being's unwholesome volitional actions
+will be though there may be a great deal of wholesome volitional actions in his
+future existences, while wandering in this round of rebirths. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>How
+Beings Have to Wander in the Round of Rebirths<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Wholesome
+deeds such as alms-giving, morality and mental development performed by
+worldlings are the actions done by those who dread the dangers of hell, so that
+they may escape from such dangers. Even though they arise in the planes of men,
+devas and Brahmas according to the quantity of wholesome volitional actions,
+they are always accompanied by myriads of old accumlated unwholesome kamma
+coupled with sakk</span><span lang=EN-US style='font-family:Foreign1'>a</span><span
+lang=EN-US style='font-family:"Times New Roman"'>ya-di</span><span lang=EN-US
+style='font-family:Foreign1'>tt</span><span lang=EN-US style='font-family:"Times New Roman"'>hi.
+This sakk</span><span lang=EN-US style='font-family:Foreign1'>a</span><span
+lang=EN-US style='font-family:"Times New Roman"'>ya-di</span><span lang=EN-US
+style='font-family:Foreign1'>tt</span><span lang=EN-US style='font-family:"Times New Roman"'>hi
+has accompanied a being throughout his existences as man, deva and Brahma with
+the result of multiplying more evil kamma in whatever existence he may happen
+to arise. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+wholesome kamma such as alms-giving, morality and mental development performed
+by any one being in his past existences are also subject to change
+(exhaustion--viparinama). They naturally fade away when they cannot have any
+further effect. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+groups of existence found in men, devas and Brahmas are also subject to decay.
+It is the law of cosmic order that they must dissolve at the exhaustion of
+their kamma and the expiry of their span of life. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+groups of existence of those who are enjoying sensuous pleasures in the planes
+of human beings, devas and Brahmas burden them with death by way of viparinama.
+As soon as the vitality element is cut off, sakk</span><span lang=EN-US
+style='font-family:Foreign1'>a</span><span lang=EN-US style='font-family:"Times New Roman"'>ya-di</span><span
+lang=EN-US style='font-family:Foreign1'>tt</span><span lang=EN-US
+style='font-family:"Times New Roman"'>hi latent in them causes them to be
+reborn in the lower worlds. They then have to sink in the ocean of suffering in
+hell which they dread very much. As explained by the commentators previously,
+these beings will have no chance to escape the hells and arise in a higher
+plane even after a lapse of one thousand or ten thousand existences. Only after
+a very great length of time, will some have the opportunity to arise in a
+higher plane, the happy course of existence. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Some
+will only have a chance to escape at the end of the world-system, i.e. when it
+is destroyed. Then they have to arise in the planes of men, devas and Brahmas;
+and again they who enjoy the sensual pleasures in these planes are burdened by
+the groups of existence by viparinama. As soon as they die in that state their
+sakk</span><span lang=EN-US style='font-family:Foreign1'>a</span><span
+lang=EN-US style='font-family:"Times New Roman"'>ya-di</span><span lang=EN-US
+style='font-family:Foreign1'>tt</span><span lang=EN-US style='font-family:"Times New Roman"'>hi
+causes them to be reborn in the lower worlds. They then have to sink in the
+ocean of suffering in hell and have no chance to escape in a thousand or ten
+thousand existences. The sequences in this respect are the same as mentioned
+above. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+above is the textual explanation as to how beings wander in the round of
+rebirths. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here,
+men, devas and Brahmas may be compared to victims, and the groups of existence
+to the murderers. The law of change may be compared to a very sharp sword. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>In
+the Khandha-Vagga of the Samyutta-Nikaya,[4] the Buddha declared: 'Corporeality
+is a murderer, so too are vedana, sanna, sankhara and vinnana'. According to
+this, it is to be remembered that whenever beings pass away, their respective
+khandha play the part of murderers. If we examine the causes of all deaths, we
+shall find that there can be no death unless there are dislocation,
+displacement or change in the body. If there be no such change, even if
+lightning were to strike a person on the head, he would not die. That shows
+that the khandha of a being are really murdering him. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Another
+interpretation: As people call Maccu the god of death which itself is death
+personified, the law of change (viparinama) is again termed a murderer. The
+inherent quality of the law of change found in men, devas and Brahmas causes
+their death, Thus the khandha of men, devas and Brahmas are alway receiving
+capital punishment, and therefore are dukkha-dhamma (suffering miserably). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>All
+human beings who are trying to take refuge in the world of men because they
+fear the dangers of hell are killed and caused to arise in the lower worlds
+from time to time by the groups of existence and sakk</span><span lang=EN-US
+style='font-family:Foreign1'>a</span><span lang=EN-US style='font-family:"Times New Roman"'>ya-di</span><span
+lang=EN-US style='font-family:Foreign1'>tt</span><span lang=EN-US
+style='font-family:"Times New Roman"'>hi. The same holds good in the cases of
+devas and Brahmas. The khandha of beings that are subject to change are
+murderers, and the unwholesome kamma together with soul-belief are constantly
+tending to drag them to the lower worlds. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>In
+the cases of men, devas and Brahmas who have already got rid of soul-belief,
+although they die through the agencies of their khandha, they are never reborn
+in the lower planes, but in the higher planes of existence. This matter will be
+fully discussed when we come to the Chapter on Magga-Sacca (the Noble Truth of
+the Path Leading to the Cessation of Suffering). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>A
+question may be raised at this point: 'If what has been said be true, there
+should be no inhabitants in the planes of men, devas and Brahmas. But that is
+not the case. There are plenty of men in the world of men, many devas in the
+deva-worlds and many Brahmas in the Brahma-worlds. So, it may be said that it
+is an unwarranted threat.' This is the kind of question raised by those
+ignorant people who have not the slightest idea of the vastness therein of the
+four lower worlds, and the density of population. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+happy course of existence is very extensive, but the inhabitants are very few.
+An abode of a deva or a Brahma is as big as live or ten of our townships. Their
+bodies are about six gavuta high. Each of the planets we see high above the sky
+is of enormous dimensions. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+woeful course of existence is also extensive and the inhabitants there are
+immensely numerous too. The number of people in the world of men, and the
+number of inhabitants in the six deva-worlds and the twenty Brahma-worlds
+cannot even be equal to the number of a single kind of insect, say ants, living
+in our country of Burma. In our country alone, even besides ants, there are
+countless numbers of aquatic and land animals. Just imagine how great would be
+the number of those aquatic and land animals residing in the big islands, small
+islands, oceans, seas, mountains, rivers and lakes of the world excluding those
+of Burma. Thus, if the number of occupants in the twenty-seven planes of the
+happy course of existence be compared with those in the animal world, it will
+be found to be very insignificant. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Crowded
+in Avici Hell<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>It is
+said in the commentaries as follows: 'There are eight kinds,of hells, each of
+which is as big as Jambudipa and is about 1000 yojanas in extent. The lowest of
+these eight hells is Maha Avici where the inhabitants are packed to the full
+like mustard seeds in a bamboo tube. All those beings who have committed the
+evils of the deepest dye usually take rebirth in Avici, the most frightful of
+the many hells. If Avici alone is packed so much, just consider how many beings
+there will be in the seven other major hells and many other minor hells. Thus,
+if compared with the inhabitants of a single hell, the number of inhabitants in
+the other twenty-seven planes of the happy course of existence is
+insignificant. Extend this to the cases of petas (ghosts) and asuras (demons). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Only
+the three kinds of wholesome kamma--alms-giving, morality and mental
+development--can cause a being to arise in the happy course of existence, and
+only when a being can objectify a wholesome kamma at the moment of death will
+he be able to take in the happy course of existence. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>On
+the other hand, if he objectifies an unwholesome kamma at the moment of death,
+he will as a matter of course be reborn in the four lower worlds. A countless
+number of acquatic and land animals pass away in one day in Burma alone. Of
+these very few would be able to objectify a wholesome kamma at the moment of
+death. There will be not even one in a hundred thousand. The same is the case
+with all beings in the lower worlds. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>How
+can the beings who do not know what is wholesome kamma, objectify such kamma at
+the moment of death? A being who is reborn in the four lower worlds usually
+takes rebirth there for many existences, and when his old accumulated kamma
+wane, the apara-pariya-vedaniya-kamma (kamma ripening in successive births)
+comes into play and he has no, chance to arise in the happy course of
+existence. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Those
+who are able to use logic and reason and those who are ignorant think that
+there are very many people in this world. By seeing the planets or
+constellations high above the sky, they think that there are many inhabitants
+in the deva-worlds. They have not the slightest idea as to how difficult it is
+to have become a man. They have heard the discourses about the blind turtle and
+the yoke[5] and the comparison of the small piece of earth on the fingernail
+and the great earth itself,[6] but do not realise their truth. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>This
+is the answer to the question raised by an ignorant person as mentioned above. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here
+ends the exposition as to how the beings who wander in this round of rebirths
+are burdened by the groups of existence to show that this is purely
+dukkha-sacca (the Noble Truth of Suffering). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here
+ends the exposition on dukkha-sacca. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><img
+width=466 height=5 id="_x0000_i1030"
+src="Catusacca-Dipani,%20or%20Manual%20of%20the%20Four%20Noble%20Truths.files\Bar.gif"><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Part
+Two<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Exposition of the Meaning of Samudaya-Sacca<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Craving<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>I
+shall now expound the four different interpretations of the term
+'samudaya-sacca'. 'Samudaya' means 'the cause of ever continuing this
+psycho-physical process of existence'. It also means 'the cause of ever
+continuing the unsatisfactoriness of life'. There is no more continuing of this
+psycho-physical process of existence after the death of an arahat who has
+overcome all kinds of craving, and there is no more continuing of suffering in
+him. Therefore it should be definitely understood that craving is the origin of
+ever continuing the arising of suffering in the lives of all beings, throughout
+all of their existence. In the world there is kama-tanha (sensual craving), and
+those who overcome this craving are free from sankhata (that produced by a
+combination of causes), santapa (burning), viparinama (change) and suffering
+connected with the maintenance of their wives and children. Those who strive
+for sensual pleasures are burdened by these till their death. Although they have
+had the rare opportunity of attaining manhood during the Buddha's Sasana, to
+encounter which, also, is another rare opportunity, they have no opportunity to
+add to the glory of learning of the doctrine and practice of the Dhamma. As
+they have sown this seed of craving, the off-shoots and branches in the nature
+of 'desire to accumulate wealth', 'desire to be handsome and good-looking',
+'desire to be wealthy', 'desire to compete with others', etc., which are but
+the expansion of craving, spring forth endlessly. These expansions of craving
+have their relevant suffering with three aspects in each: sankhata, santapa and
+viparinama. This is the exposition of the nature of the origin of suffering,
+which as we see, arises along with the expansion of craving in its three
+aspects. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>There
+are six kinds of craving: rupa-tanha (craving for visible objects), sadda-tanha
+(craving for sounds), gandha-tanha (craving for odours) rasa-tanha (craving for
+tastes), photthabba-tanha (craving for bodily impressions), dhamma-tanha (craving
+for mental impressions). These cravings having four interpretations in each, we
+have 24 interpretations in all. Rupa-tanha means craving for pleasant visible
+objects. For these objects beings cannot be free from the burden of sankhata,
+santapa and viparinama. How? It is in this way: This craving by way of ayuhana
+(the fever of unsatisfied longing) forces beings to strive and find ever fresh
+delight. They have no desire to get rid of such delightful objects. This
+craving is also expanded in the following ways: By way of nidana (foundation;
+origin; cause), they incline to have more and more pleasurable objects and
+enjoy more and more. They have no contentment of mind. By way of samyoga
+(union; association) they desire always to be associated with these pleasant
+objects. They have not the slightest idea to part with these pleasurable
+objects. By way of palibadha (obstruction; hindrance; impediment), they prevent
+beings from parting with these pleasant objects, and also obstruct the sources
+of tranquillity of mind. They do not allow beings to attain calmness of mind
+obtained by not mingling with these objects. Thus craving for visible objects
+causes beings to sustain suffering by functioning in these four ways. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+same holds good for craving for sounds, etc. Dhamma-tanha means craving for
+vedana-kkhandha (feeling group), sanna-kkhandha (perception group),
+sankhara-kkhandha (group of mental formations) and vinnana-kkhandha
+(consciousness group) found in a person's life or in the lives of his dear
+ones. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Another
+way of expression: There are also three kinds of craving. They are kama-tanha,
+bhava-tanha, and vibhava-tanha. Kamatanha means craving for sensuous objects,
+as form, etc. Bhava-tanha means 'having delight in the jhana attained by
+oneself'. Vibhava-tanha means 'having delight in wrong view of
+self-annihilation (uccheda-ditthi)'. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Meals
+prepared from coarse cereals, such as maize, etc., are very plain. They are not
+palatable and not very easy to swallow. When we add ghee, butter, fish soup or
+beef soup to it and when we eat it with pork or chicken, then only can we eat
+tastefully. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>In
+the same manner, the consciousness of beings of the sensuous planes, having
+been incessantly mixed with such 'burning' things as sensuous lust, ill-will,
+etc., are very and and hot. When they have no opportunity to come in contact
+with external objects, they at once become monotonous, drowsy and devoid of
+interest. just as a dog becomes irritable and restless when an ulcer in its
+body is eaten by maggots, these cravings also cannot rest for a moment, and
+have to run immediately after an external object, or after one of their
+associates. Only when these cravings are constantly associated with external
+objects can the agreeableness of consciousness of beings become conspicuous.
+The more attractive are the external objects, the better will be the state of
+agreeableness of beings. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Thus,
+beings experience sensuous pleasures in association with external objects and
+enjoy the status of Sakka, the king of devas, worldly kings, wealthy persons,
+devis, women, etc., in the sensuous planes. When they are kept away from these
+external objects, they become drowsy and bored. Then the craving, which may
+here be compared to a burning fire, arises and longs for external objects. To
+satiate its hunger, it has to be fed. So, in accumulating the combustible
+substances for this burning craving, we find that myriads of evil actions and
+myriads of sufferings accompany the lives of these beings. This craving is
+called sensuous craving. This sensuous craving always murders beings, by
+sinking them in the ocean of suffering, while the beings of this sensuous
+sphere are striving hard for the maintenance of their wives and children and
+also to earn a livelihood. Just as water that runs down the steep hills into
+the river and carries all dry twigs, branches and leaves down to the ocean,
+this never-satiated craving carries to the four lower worlds all those
+worldlings and men of the sensuous sphere, who are not living according to the
+Buddha-Dhamma. This is the expositionon sensuous craving of the origin of
+suffering. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Those
+wise people who understand the work of this burning craving treat this sensuous
+sphere on the same level as the four lower worlds, discard their properties,
+become samanas and practise calm in the forest so that they may be free from
+such suffering. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+meal that is cooked on the jotipasana (a burning glass made of crystal) used by
+the northern islanders is very delicious and palatable. It is comparable to
+those delicious dishes of ghee, butter, pork and chicken found in our country,
+and if our dishes happen to be mixed with that meal, the latter would lose its
+taste and delicacy altogether. Thus the union of the two will have to be much
+feared. Similarly, one attains jhana which is free from such hindrances as
+sensuality and ill-will. Detached from sensual objects, detached from
+unwholesome states of mind, he enters into the first jhana, which is
+accompanied by thought-conception and discursive thinking is born of detachment
+and filled with rapture. External objects are obstacles to him. The craving for
+such jhana, or the arising in the Brahma plane in the next birth by virtue of
+such jhana, is called bhava-tanha. Understand the origin of suffering in
+relation to the bhava-tanha in the same way as has been explained in the
+previous chapter where the suffering in the cases of constituent groups of
+existence contained in Brahmas has been expounded. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+exposition of the origin of suffering in relation to the vibhavatanha which is
+associated with miccha-ditthi (wrong belief) is not given here, as it is not
+necessary to be explained in the Buddha's Sasana. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here
+ends the exposition of samudaya-sacca (The Noble Truth of the Origin of
+Suffering). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><img
+width=466 height=3 id="_x0000_i1031"
+src="Catusacca-Dipani,%20or%20Manual%20of%20the%20Four%20Noble%20Truths.files\Bar.gif"><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+Four Interpretations of Magga-Sacca (The Noble Truth of the Path Leading to the
+Cessation of Suffering)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Of
+the four aspects of nirodha-sacca (the Noble Truth of the Cessation of
+Suffering) and four aspects of magga-sacca (The Noble Truth of the Path Leading
+to the Cessation of Suffering) both of which are attainable and enjoyable by
+sotapannas (stream-winners), I shall now deal with the latter first. As has
+been explained before there are four interpretations of magga-sacca. They are: <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>niyyanatho
+(release; deliverance) <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>hetuttho
+(suitability for the attainment of arahatship) <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>dassanatho
+(realization of the truth) <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>adhipateyyatho
+(sovereignty; power). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Of
+these, I shall expound how sotapannas are able to attain and enjoy the
+niyyanatho aspect of The Noble Truth of the Cessation of Suffering. When a
+person attains sotapattimagga (the path of stream- winning), miccha-ditthi
+(wrong understanding) and vicikiccha (sceptical doubt) that accompany him come
+to an end. All his accumulated old unwholesome kamma and those unwholesome
+actions that have been performed by him in the present life and are to take
+effect in successive births or future births become ineffective. He is thus
+free from falling to apaya-samsara (rebirth in the lower worlds) for ever. At
+most he will have to wander in the happy course of existence, such as the world
+of men, deva-planes and Brahma planes. Even in those planes, never would he
+arise as one who commits evil actions and who leads a bad mode of living; nor
+would he arise as one who is deprived of power, wealth and glory, He would only
+arise as one who is endowed with wisdom, glory, wealth and power. It is the law
+of cosmic order that such a being would never be reborn in a plane lower than
+he has arisen in, after his passing away from the present plane. If he so
+desires, he can take rebirth in the same old plane, or he can arise in a higher
+plane. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>In
+this manner he wanders in the happy course of existence for many a world-cycle.
+Although sotapannas wander in the happy course of existence, unlike the
+ordinary worldlings they do not drift along the current of samsara and are not
+destined to take rebirth in the lower worlds. From the moment they attain the
+Path of stream-winning, they are delivered from such evils as sakk</span><span
+lang=EN-US style='font-family:Foreign1'>a</span><span lang=EN-US
+style='font-family:"Times New Roman"'>ya-di</span><span lang=EN-US
+style='font-family:Foreign1'>tt</span><span lang=EN-US style='font-family:"Times New Roman"'>hi
+(personality-belief), vicikiccha, ducarita-durajiva (evil actions and bad livelihood),
+and apaya-dukkha, and have thus attained sa-upadisesa-nibbana[7] (the full
+extinction of defilements with the groups of existence still remaining). They
+then wander in the happy course of existence as ariyas (noble ones) who belong
+to the supramundane sphere. After wandering in the planes of human beings,
+devas and Brahmas, when they do not desire to wander any more in the happy
+course of existence, they attain anupadisesa-nibbana (the full extinction of
+defilements without the groups remaining, or the 'no-more-continuing' of this
+psycho-physical process of existence). This is the exposition as to how
+sotapannas gradually rise till they attain anupadisesa-nibbdna. This is the
+definition of niyyanatho. The above shows the exposition of the aspect of
+niyyanatho attained and enjoyed by sotapannas. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Below
+is the explanation of the aspect of hetuttho (having the characteristic of
+being a cause for the attainment of arahatship) attained and enjoyed by
+sotapannas. From the moment the sotapannas attain the Path of stream-winning,
+the inherent qualities of the holy ones ever exist in them, and they become
+stronger and stronger in succeeding existences. The qualities of morality
+established by them become greater and greater. So too are the powers of their samadhi
+(concentration of mind) and panna (wisdom). So also are the powers of
+satipatthana-dhamma (four applications of mindfulness), sammappadh</span><span
+lang=EN-US style='font-family:Foreign1'>a</span><span lang=EN-US
+style='font-family:"Times New Roman"'>n</span><span lang=EN-US
+style='font-family:Foreign1'>a</span><span lang=EN-US style='font-family:"Times New Roman"'>-
+dhamma (right exertion), iddhi-pada-dhamma (roads to power), indriya- dhamma
+(faculties), bala-dhamma (powers), bojjhanga (the seven links of enlightenment)
+and magganga-dhamma (the Noble Eightfold Path). The development of such powers
+in one existence after another is known as hetuttho. The above is the
+exposition of the aspect of hetuttho (suitability for the attainment of
+arahatship) attained and enjoyed by sotapannas. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Now
+comes the aspect of dassanatho (realization of the truth) attained and enjoyed
+by sotapannas. From the moment the sotapannas attain the Path of stream-winning
+up to the time of their attaining anupadisesa-nibbana, while they are wandering
+in the happy course of existence, they have no perplexity of mind in regard to
+the existence of The Four Noble Truths--The Noble Truth of Suffering, The Noble
+Truth of the Origin of Suffering, The Noble Truth of the Cessation of Suffering
+and The Noble Truth of the Path Leading to the Cessation of Suffering. Whenever
+they contemplate these Four Noble Truths, they at once realize them vividly,
+just as one can distinctly see the planets and constellations high above in the
+sky. This is the exposition of the aspect of dassanatho (realization of the
+truth) attained and enjoyed by sotapannas. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Below
+is the explanation of the aspect of adhipateyyatho (mastery over oneself)
+attained and enjoyed by sotapannas. The wholesome volitional actions, such as
+dana (alms-giving), sila (morality) and bhavana (mental development) performed
+by these sotapannas are free from the operation of craving. Thus they are free
+from the 'accumulation of merit' called punnabhisankhara. They have attained
+the highest amongst all the mundane wholesome kamma. Their minds become as pure
+as a highly polished conch. These all help them to attain anupadisesa-nibbana. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>This
+is the exposition of the aspect of adhipateyyatho attained and enjoyed by sotapannas.
+<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Now I
+shall expound the four aspects of nirodha-sacca (The Noble Truth of the
+Cessation of Suffering), which itself is called Nibbana. There are four aspects
+of nirodha-sacca. They are: nissaranattho (having the characteristic of being an
+escape), pavivekattho (having the characteristic of being free from
+disturbance), amatattho (a state where there is no more death or dissolution),
+and asankhatatho (having the characteristic of the unoriginated, Nibbana). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+supramundane sphere of such sotapannas as Visakha, Anathapindika, and
+decillions of holy ones in the deva-countries of catu-maharajika, etc., may be
+compared to the great Sita ocean situated at the foot of Mount Meru. Decillions
+and decillions of such noble ones may be compared to decillions and decillions
+of fishes living in that great ocean. In what respect do they resemble them ?
+It is in this manner that great Sita ocean situated amidst the Yuganda
+mountains is very wide and immensely deep. The water in that great ocean never gets
+diminished, nor is its water evaporated by any of the sun. The water is so
+clean that even a peacock's feather or fine cotton will sink to the bottom of
+the ocean. In the same manner it is the law of cosmic order that this
+sa-upadisesa-nibbana, the supramundane sphere of ariyas, such as Visakha,
+Anathapindika, etc., will never be diminished owing to the lapse of time, even
+after a lapse of many millions of world-cycles. The state of 'the full
+extinction of defilements with the groups of existence still remaining' will
+never be diminished. The state of Nibbana never becomes extinct. It is also the
+law of cosmic order that these sotapannas are never entangled with evil
+actions, sceptical doubt and bad livelihood, because the state of
+sa-upadisesa-nibbana exists in them. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Just
+as the great fishes in that great Sita ocean need not fear the water in the
+ocean getting diminished, these sotapannas need never fear losing their
+attainment of 'the full extinction of defilements with the groups of existence
+still remaining'. Just as the water of that great ocean is not warmed by the
+rays of the sun, these sotspannas who have attained Sa-upadisesa-nibbana will
+not be polluted with any defilement or threatened with the dangers of wandering
+in samsara, however long they may have to wander in the happy course of
+existence, and they need not fear that personality-belief will accompany them
+anymore. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Just
+as the fishes in the great ocean need not be anxious about the water of the
+ocean getting warm at any time, these sotapannas also need not be anxious about
+the defilements which they have already dispelled by means of the Path and
+Frution of the stream-winning. Just as the fishes in the great ocean need not
+be anxious about the water of the ocean getting dirty, so also the sotapannas
+need not be anxious about their state being polluted with wrong views,
+sceptical doubt, evil actions, bad livelihood and hellish qualities. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Just
+as the great fishes in that great ocean need not be anxious for a change of
+residence to other lakes, rivers and seas, nor be anxious about the ocean water
+becoming warm or turbid, these countless numbers of ariyas, who pass amongst
+heavenly and human beings at the most for seven times in the round of rebirths,
+need not wait till the arising of another Buddha. Retaining the state of
+sa-upadisesa-nibbana, they wander in the round of rebirths as wealthy men,
+devas and Brahmas and finally attain an-upadisesa-nibbana. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>At
+this juncture one may ask the following question in connection with the
+expression 'these sotapannas remain within the supramundane sphere of
+sa-upadisesa-nibbana': 'As sotapannas they are able to dispel some of the
+defilements only, and at the same time are not free from the sufferings of
+rebirth, old age and death, so it cannot be claimed that they have attained
+Nibbana, nor are they within the sphere of Nibbana.' The answer to it as
+follws: 'Did not the Omniscient Buddha declare that the Nibbana attained by
+these sotapannas is specially termed sa-upadisesa-nibbana, because they have
+not dispelled all defilements? Is it not that it is declared as
+sa-upadisesa-nibbana because these sotapannas will have to take rebirth for at
+most seven times, experiencing old age and death for many world-periods to
+come?' <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>This
+kind of question is raised by one who does not realise the greatness and
+magnificence of Nibbana. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>These
+sotapannas, after passing amongst heavenly and human beings for a great length
+of time, finally become arahats, and the Nibbana they are then to attain after
+getting rid of the groups of existence is called anupadisesa-nibbana. This
+Nibbana is not within the scope of sotapannas, and so in expounding the Nibbana
+attained by sotapannas, anupadi-sesa-nibbana is not meant thereby, and
+therefore not discussed. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+nissaranattho (having the characteristic of being an escape) aspect attained
+and enjoyed by sotapannas means the following: kilesa- vatta (escape from the
+circle of the most evil defilements headed by 'wrong views' and 'sceptical
+doubt'), kamma-vatta (escape from the circle of unwholesome kamma such as the
+ten kinds of evil conduct in deeds, words, and thought, and also the bad mode
+of living), and vipakavatta (escape from the circle of being reborn in the four
+lower worlds). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>As
+regards worldlings, although they wander in the round of rebirths as kings of
+men, kings of devas or kings of brahmas, as they have not yet attained the
+state of escape from the round of rebirths, they have to wander in it,
+entangling with wrong views, sceptical doubt, evil conduct and bad livelihood,
+which would cause them to arise in the four lower worlds. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here
+ends the exposition of nissaranattho. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Pavivekattha
+(retirement; seclusion; solitude): Although sotapannas may wander in the happy
+course of existence for many world-cycles, their minds will be ever free from
+being molested by wrong views, evil actions and bad livelihood, and suffering
+in the four lower worlds. The state of ever being free from the operation of
+these evil actions and the evils of the four lower worlds, which are the most
+evil things in the round of rebirths, is called retirement, seclusion or
+solitude attained and enjoyed by sotapannas. Worldlings are not free from the
+operation of such evils. Although they wander in the round of rebirths as kings
+of men, devas and brahmas, their minds are at times brightened with right
+views, faith, good actions and sense pleasures, and at times darkened with
+wrong views, sceptical doubt, evil actions and miseries of the four lower
+worlds. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>This
+is the exposition of pavivekattha. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Asankhatattha:
+Below is the exposition of asanknatattha (having the characteristic of the
+'unoriginated' Nibbana). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+sa-upadisesa-nibbana attained by sotapannas is never destroyed and so it is
+eternal. That being the case, it is free from the trouble of setting it up anew.
+There is no more trouble of diving into the pit of suffering again to perform
+alms-giving in the endeavour to attain Nibbana. There is no more suffering for
+them to practise morality and also to lead the life of a samana. The state of
+the unoriginated, uncreated, is called the asankhatattha aspect attained and
+enjoyed by sotapannas. They, however, practise alms-giving, morality and mental
+development for the purpose of further dispelling some defilements that lie
+latent in them. They need not worry about personality-belief, sceptical doubt
+and the ten kinds of evil actions which have already been extinguished. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here
+ends the exposition of asankhatattha. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Amatattha
+(a state where there is no more death or dissolution.) The state of the
+extinction of defilements with the groups of existence still remaining, never
+gets spoiled, destroyed or deteriorated in the world-cycles to come. For
+instance, in the cases of sotapannas like Visakha, Anathapindika and others who
+pass from the planes where they are to higher ones, the state never fades away
+nor disappears, though their constituent groups of existence which are subject
+to change may be destroyed, taking the form of new groups of existence. Nibbana
+is 'deathlessness', but the khandha (groups of existence) are mortal and
+subject to change. One khandha may go away and another khandha may come, but
+the state of sa-upadisesa-nibbana will go on, and so it finally merges into
+an-upadisesa-nibbana. Although these sotapannas may wander in the round of
+rebirths for many a world-cycle to come, they need not fear the loss of the
+cessation of suffering which they have experienced and realised. From the
+moment they attain the path of stream-winning up to the time they attain full
+Nibbana or anupadisesa- nibbana, this state of sa-upadisesa-nibbana remains as
+the refuge and dependence of the countless number of sotapannas. This state is
+termed the amatattha (a state where there is no more death or dissolution)
+attained and enjoyed by sotapannas. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here
+ends the exposition of amatattha. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+above is the exposition on the four interpretations of sa-upadisesa-nibbana. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+same holds good for the four aspects of Nibbana attained by sakadagami, anagami
+and arahats. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+four aspects of the Noble Truth of Suffering are the functions of parinna (full
+comprehension). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+four aspects of the Noble Truth of the Origin of Suffering are the functions of
+pahana-parinna (full overcoming; abandoning.) <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+four aspects of the Noble Truth of the Cessation of Suffering are the functions
+of sacchikarana (realization or seeing face to face). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+four aspects of the Noble Path Leading to the Cessation of Suffering are the
+functions of mental development. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>If a
+person fully comprehends and realizes the four aspects of the Noble Truth of
+Suffering, he will automatically realize the twelve remaining aspects of the
+Noble Truth of the Origin of Suffering, the Noble Truth of the Cessation of
+Suffering and the Noble Truth of the Path Leading to the Cessation of
+Suffering. Moreover, the four aspects of the Noble Truth of Suffering are
+included in the three characteristics of existence--characteristic of
+impermanence, suffering and selflessness. These four aspects are also within
+the orbit of the characteristic of suffering. Of the four interpretations of the
+Noble Truth of Suffering, viparinamattha (change) is itself characteristic of
+impermanence. If these four aspects of the Noble Truth of Suffering fall within
+the province of the characteristics of impermanence and suffering, they will
+also be in the orbit of the characteristic of impersonality. So, when one fully
+comprehends the three characteristics of impermanence, suffering and
+selflessness, he also fully comprehends the sixteen aspects of The Four Noble
+Truths, as has been explained before. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>'Etesu
+tisu lakkhanesu ekasmim ditthe itaradvayam dittham neva hoti. Tena vuttam,
+anicca-sannino meghiya anatta-sanna santhatiti.' --Anguttara commentary. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>(When
+one fully comprehends any one of the three characteristics of existence, he
+also automatically comprehends and realises the remaining two characteristics.
+The Omniscient Buddha declared. 'O Meghiya, if one realises one of the three
+characteristics of existence, he automatically realises the remaining two.') <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Of
+the three characteristics, the characteristic of impermanence is the
+fundamental one. The whole affair of the characteristic of impermanence is
+nothing but marana (death), which means the continually repeated dissolution
+and vanishing of all physical and mental phenomena and that these phenomena do
+not last even for the time occupied by a wink of the eye, he automatically
+fully comprehends and realises the characteristics of suffering and
+selflessness. How? It may be explained as follows: If one realises all physical
+and mental phenomena in his body continually and repeatedly dissolve and vanish
+at every consciousness-moment, will he have any attachment for his body and
+take that as pleasure? Or will he also take it that this body is soul-essence? <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>The
+above shows that of the three characteristics of existence, the characterstic
+of impermanence is the most essential. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>If
+one realises the functioning of the characteristic of impermanence in
+corporeality out of the five constituent groups of existence, he is able to attain
+the Path of anagami (never-returner). On the other hand, if he realises the
+functioning of the four mental formations out of the mental group, he is able
+to attain the Path and the Fruition of arahatta (holiness). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>(These
+two theories have fully been discussed with Pali and its definition in the
+Manual of Ahara Dipani.) <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Therefore,
+those worldlings who desire to be delivered from the tangle of wrong views,
+evil actions, and the state of the worldlings who wander in the round of
+rebirths and enjoy the status of those sotapannas like Visakha, Anathapindika
+and others, who have attained sa-upadisesa- nibbana and become the inhabitants
+of the supramundane sphere, passing through the planes of heavenly and human
+beings until they attain the state of anupadisesa-nibbana and fully
+comprehending the four aspects of the Noble Truth of the Path Leading to the
+Cessation of Suffering and the Noble Truth of the Cessation of Suffering,
+should get instructions from a competent teacher on the full interpretations and
+aspects of the characteristic of impermanence, and having studied them
+conscientiously, should practise vipassana-bhavana through the medium of the
+characteristic of impermanence, just as a person whose hair is burning with a
+celestial fire or whose head is pierced with a sharp spear desires to quell
+this celestial fire of personality-belief or take out the spear of
+personality-belief from his head. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Conclusion<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>Here
+the concise Catusacca-Dipani, or the Manual of the Four Noble Truths, comes to
+a close. It was written at the Letpandaung Hill, Monywa, at the request of
+Pleaders Maung Kyaw and Maung San Lin, for the benefit of those who desire to
+know the sixteen interpretations of the Four Noble Truths and who desire to
+honour the teaching of the Buddha. It was finished during the Vassa of 1265
+Burmese Era (July 1903 C.E.). <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><img
+width=466 height=3 id="_x0000_i1032"
+src="Catusacca-Dipani,%20or%20Manual%20of%20the%20Four%20Noble%20Truths.files\Bar.gif"><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>FOOTNOTES:<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>[1]<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Samyutta-Nikaya, Khandha
+Vagga-Samyutta, Khandha-Samyutta, <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>(5)Pupphavagga, (3)Phenapindupama Sutta 6th syn. Edition pp 115.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>[2]<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Samyutta-Nikaya,
+Salayatanavagga, Salayatana-Samyutta <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(4)
+Asivisvagga, Asivispama Sutta. 6th syn. Edition. p. 383.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>[3]<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Samyutta-Nikaya,
+Nidanavagga Samyutta, Nidana-Samyutta, <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(5)
+Gahapati vagga (4) Loka Sutta 6th syn. Edition p. 301.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>[4]<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Samyutta-Nikaya,
+Khandha-Vagga Samyutta, (2) Radhasamyutta, <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(2)
+Dutiyavagga, (1) 6th syn. Edition. p. 159.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>[5]<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Samyutta-Nikaya,
+Mahavagga-Samyutta, Saccasamyutta, Papatavagga, <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Chiggalayuga Sutta. 6th syn. Edition. p. 397.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>[6]<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>Samyutta-Nikaya,
+Nidanavagga-Samyutta, Opammasamyutta <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(2)
+Nakhasikha Sutta<span style="mso-spacerun: yes">&nbsp; </span>6th syn. Edition.
+p. 454.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'>[7]<span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>There are two
+interpretations, in regard to the use of <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>sa-upadisesa-nibbana. In the first case it is used only in <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>respect
+of arahats, in the second case, as here by the Venerable <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ledi Say</span><span
+lang=EN-US style='font-family:Foreign1'>a</span><span lang=EN-US
+style='font-family:"Times New Roman"'>daw, it is used in respect of all four
+stages of <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>holiness.
+If the word is used only in respect of arahatns, <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>nibbana-dhatta appears to be more suitable in respect of the <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman"'><span
+style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>remaining
+three.<o:p></o:p></span></p>
+
+<p align=center style='margin-left:36.0pt;text-align:center'><span lang=EN-US><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1033" type="#_x0000_t75" alt="" style='width:349.5pt;
+ height:2.25pt'>
+ <v:imagedata src="" o:href="http://www.ubakhin.com/images/Bar.gif"/>
+</v:shape><![endif]--><![if !vml]><img width=466 height=3 src="" v:shapes="_x0000_i1033"><![endif]></span></p>
+
+<p align=center style='margin-left:36.0pt;text-align:center'><span lang=EN-US>Published
+by the Sayagyi U Ba Khin Memorial Trust, IMC-UK, Splatts House, Heddington,
+Calne, Wiltshire SN11 0PE, England, <br>
+Tel: +44 1380 850 238, Fax: +44 1380 850 833. <br>
+Registered Charity No 280134. </span></p>
+
+<p align=center style='margin-left:36.0pt;text-align:center'><span lang=EN-US><!--[if gte vml 1]><v:shape
+ id="_x0000_i1034" type="#_x0000_t75" alt="" style='width:349.5pt;height:4.5pt'>
+ <v:imagedata src="" o:href="http://www.ubakhin.com/images/Bar.gif"/>
+</v:shape><![endif]--><![if !vml]><img width=466 height=6 src="" v:shapes="_x0000_i1034"><![endif]></span></p>
+
+<p align=center style='margin-left:36.0pt;text-align:center'><span lang=EN-US>Copyright
+1999 Sayagyi U Ba Khin Memorial Trust, all rights reserved.<br>
+<!--[if gte vml 1]><v:shape id="_x0000_i1035" type="#_x0000_t75" alt=""
+ style='width:349.5pt;height:4.5pt'>
+ <v:imagedata src="" o:href="http://www.ubakhin.com/images/Bar.gif"/>
+</v:shape><![endif]--><![if !vml]><img width=466 height=6 src="" v:shapes="_x0000_i1035"><![endif]></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='font-family:"Times New Roman"'><a
+href="http://www.ubakhin.com/PUBLIC.html">http://www.ubakhin.com/PUBLIC.html</a><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
